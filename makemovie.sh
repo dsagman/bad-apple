@@ -1,0 +1,1 @@
+ffmpeg -i \output\frame-%04d.jpg \apple.gif
