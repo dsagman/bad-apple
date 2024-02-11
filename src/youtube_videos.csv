@@ -1,37 +1,43 @@
 Type|Summary|Link|Link2|Link2 Type|Title|Description|Upload Date|Duration|Views|Comments|Likes|GitHub|Language|Library|File Size|Music
-Math|Circle packing|https://www.bilibili.com/video/BV1rV4y1C7LB/||||||||||||||
+Math|Circle packing|https://www.youtube.com/watch?v=wbGZJbeojoo|||Bad Apple!! using a Circle Packing Algorithm|"Using maximum inscribed circles
+Uses Processing Geometry Suite libraries by micycle on Github
+Uses ImageTracer by jankovicsandras on Github
+
+Bad Apple!! using other circle packing algorithms:
+https://youtu.be/5KDzg9MJudY - Front-chain packing
+https://youtu.be/F7q2Fargzyk - Square lattice of circles"|2023-05-01T17:11:17Z|PT3M40S|219|||||||
 Math|Circle Packing (Python, CV2)|https://www.youtube.com/watch?v=37AqUjnsNKw|||Bad Apple, But It's a Fractal (Higher Quality)|"I redid it with a higher resolution and smaller minimum radius. I also made a few more tweaks to make it look better in general
 
 Still Inspired by
 Doodling in Math Class: Infinity Elephants:
 https://www.youtube.com/watch?v=DK5Z709J2eo
 
-Once again coded in Python, using the CV2 library."|2022-09-22T07:00:05Z|PT3M40S|512|||||||
-Math|Moving Bubbles|https://www.youtube.com/watch?v=aQPLFQsJl1w|||Bad Apple, but it's moving bubbles||2023-08-19T13:33:58Z|PT3M40S|3236|||||||
+Once again coded in Python, using the CV2 library."|2022-09-22T07:00:05Z|PT3M40S|512.0|||||||
+Math|Moving Bubbles|https://www.youtube.com/watch?v=aQPLFQsJl1w|||Bad Apple, but it's moving bubbles||2023-08-19T13:33:58Z|PT3M40S|3236.0|||||||
 Math|Fourier|https://www.youtube.com/watch?v=GGPjQGOCbTY|||Bad Apple but rendered as a Fourier Series|"excuse the jank
 
 clean version: https://youtu.be/IvMairUxGaM
 
-github: https://github.com/Adneths/fourier-drawer"|2022-08-07T11:11:51Z|PT4M4S|247786|||||||
+github: https://github.com/Adneths/fourier-drawer"|2022-08-07T11:11:51Z|PT4M4S|247786.0|||||||
 Math|Bezier|https://www.youtube.com/watch?v=MVrNn5TuMkY|https://www.youtube.com/watch?v=BQvBq3K50u8|Making of|Bad Apple!! played on Desmos but it's high quality with Bezier Curves|"The squeakquel. Taking a bezier curve approach as opposed to linear approximations. The remix used in this video is slightly different from the song, but it's the only way I could get around copyright claims. Video sped up. Uses Desmos API, Potrace, Python PIL.
 
 Discord server: https://discord.gg/WEykWbjkR2
 Check out my other stuff on GitHub: https://github.com/kevinjycui
 
-Music used: ZahranW - Bad Apple!! 8bit remix (Touhou: Lotus Land Story) https://www.youtube.com/watch?v=lNm85uXR3RM"|2021-04-16T14:00:07Z|PT4M19S|2264747|||||||
+Music used: ZahranW - Bad Apple!! 8bit remix (Touhou: Lotus Land Story) https://www.youtube.com/watch?v=lNm85uXR3RM"|2021-04-16T14:00:07Z|PT4M19S|2264747.0|||||||
 Math|Single line|https://www.youtube.com/watch?v=RsJVCAMxdio|||Bad Apple but drawn using a single line. (Seizure Warning)|". Bad Apple but it's a single-line drawing.   I used a program called FiniteCurve, https://www.finitecurve.com (I used the offline version) to convert each frame to a single-line drawing. 
 
-#badapple #lineart"|2022-11-29T02:00:37Z|PT3M40S|1497935|||||||
+#badapple #lineart"|2022-11-29T02:00:37Z|PT3M40S|1497935.0|||||||
 Math|Maze with shortest path|https://www.youtube.com/watch?v=QhmGjgd_3Ns|||Bad apple but every frame is a maze including the shortest path through it|"I use Wilson's algorithm to generate the maze and A* to solve it, coded in C++
 
 Used softwares, websites:
 https://www.dvdvideosoft.com/products/dvd/Free-Video-to-JPG-Converter.htm
 https://imagemagick.org/index.php
-https://ezgif.com/maker"|2021-04-23T14:11:59Z|PT3M40S|848|||||||
+https://ezgif.com/maker"|2021-04-23T14:11:59Z|PT3M40S|848.0|||||||
 Math|Slices of volume|https://www.youtube.com/watch?v=HfMzrvXQJP8|||Bad Apple! but it's a slice of a volume|"thankies 2 aly
 
 to those who wanted to download the mesh in my Bad Apple video i've made it available here, along with a corrected version
-https://drive.google.com/drive/folders/1HpBDUOoqNzy81QURhs2fK88qgNyvLTj9?usp=share_link"|2022-11-21T08:35:45Z|PT3M40S|1834183|||||||
+https://drive.google.com/drive/folders/1HpBDUOoqNzy81QURhs2fK88qgNyvLTj9?usp=share_link"|2022-11-21T08:35:45Z|PT3M40S|1834183.0|||||||
 Math|Fluid simulation|https://www.youtube.com/watch?v=2Ni13dnAbSA|||Bad Apple but it's a Fluid Simulation|"I tried rendering Bad Apple inside of a particle-based fluid simulation.
 (I recommend watching in 4K if you can, as video compression is not overly friendly towards all the little dots!)
 
@@ -46,21 +52,21 @@ Or support on Ko-Fi https://ko-fi.com/sebastianlague
 
 Credits:
 Music by Alstroemeria Records (feat nomico): https://www.youtube.com/watch?v=i41KoE0iMYU
-Animation by あにら (Anira). Specifically, I used this version: https://www.youtube.com/watch?v=FtutLA63Cp8"|2024-01-03T12:32:31Z|PT3M59S|332969|||||||
+Animation by あにら (Anira). Specifically, I used this version: https://www.youtube.com/watch?v=FtutLA63Cp8"|2024-01-03T12:32:31Z|PT3M59S|332969.0|||||||
 Math|Fluid simulation 2|https://www.youtube.com/watch?v=dikkMHkZf9E|||Bad Apple but its a fluid simulation|"Was bored.
 
-Music: Bad apple !! feat. nomico"|2024-01-08T05:55:22Z|PT3M54S|3996|||||||
+Music: Bad apple !! feat. nomico"|2024-01-08T05:55:22Z|PT3M54S|3996.0|||||||
 Math|Fluid simulation 3|https://www.youtube.com/watch?v=6Cs1yX3ATs8|||Bad Apple! But its a liquid simulation!|"Its milk I swear...
 
 GPU fluid based on Michaels Re-Intergration algorithm on ShaderToy.
 
 
-Music: Bad apple !! feat. nomico"|2024-01-09T18:48:04Z|PT4M11S|3804|||||||
+Music: Bad apple !! feat. nomico"|2024-01-09T18:48:04Z|PT4M11S|3804.0|||||||
 Math|Water Ripples|https://www.youtube.com/watch?v=BB5dmSI4Urk|||Bad Apple but it's water ripples|"Simulated using the wave equation.
 
 Song: ""Bad Apple!!"" by Alstroemeria Records featuring nomico
-Animation by Anira (あにら)"|2024-01-02T14:41:14Z|PT3M40S|7391|||||||
-Math|1,000 dots per frame|https://www.youtube.com/watch?v=ETCxQPHv07c|||[Seizure warning] Bad Apple, but I only have 1000 poorly color matched dots every frame|uses an iterative voronoi error reduction algorithm to find an efficient dot placement|2024-01-19T09:00:39Z|PT3M40S|4557|||||||
+Animation by Anira (あにら)"|2024-01-02T14:41:14Z|PT3M40S|7391.0|||||||
+Math|1,000 dots per frame|https://www.youtube.com/watch?v=ETCxQPHv07c|||[Seizure warning] Bad Apple, but I only have 1000 poorly color matched dots every frame|uses an iterative voronoi error reduction algorithm to find an efficient dot placement|2024-01-19T09:00:39Z|PT3M40S|4557.0|||||||
 Math|Particles|https://www.youtube.com/watch?v=LNYYlmCPTPY|||"2fps laggy ""Bad Apple!!"" but 60fps particles playing it (optimal transport)Subtitles for explanation"|"The frames from the original video is captured every beat (≈ 2.3 fps) and bunch of particles are moved to reproduce the captured frame. The movement is determined by optimal transport function, which is related to machine learning and statistics, as well as a technique used in simulating incompressible fluid dynamics. Further technical explanation can be toggled by YouTube caption (click the CC icon of the video player)
 Original Music: ""Bad Apple!!"" in 東方幻想郷 (Amusement Makers/ZUN)
 Arranged Music: ""Bad Apple!! feat. nomico"" by Alstroemeria Records (Masayoshi Minoshima/Haruka)
@@ -82,7 +88,7 @@ https://drive.google.com/file/d/1-8fLRCviuQOi0r8w4xCDmdX8FjskzO2R/view
 2:44 Music cont'dd
 3:04 My favorite moment 3
 3:10 Music cont'ddd
-3:27 Ending (rotating Yin-Yang symbol)"|2023-02-22T19:06:13Z|PT3M39S|389188|||||||
+3:27 Ending (rotating Yin-Yang symbol)"|2023-02-22T19:06:13Z|PT3M39S|389188.0|||||||
 Math|Hyperbolic planes|https://www.youtube.com/watch?v=P9EZy8ZzlVU|https://www.youtube.com/watch?v=NGixk6jVVNM|Making of|Bad Apple, but rendered with hyperbolic planes|"Our take on the famous Internet meme! ""If something can display something, it will display Bad Apple. If it can't, people will make it display Bad Apple."" -- LiterallySomeOne, [2]
 
 By the Riemann Mapping Theorem, every simple-connected shape can be conformally mapped to a hyperbolic plane, and thus be used as a model* of hyperbolic geometry.
@@ -102,7 +108,7 @@ Want to know more? Follow us and comment for a ""making of"" video! [3]
 Download video without YouTube compression: (also fixes the missing frames at 0:41 and at the end, causing music desync)
 https://drive.google.com/file/d/1TqZo1AyeU7a4N9zcr32bIzVxT0vUNwxo/view?usp=sharing
 
-#badapple #mathart #noneuclidean #mindbending #visualization #mathisbeautiful #mathgenius #mathisfun #mathisawesome #newconformist #conformal #hyperrogue #rogueviz"|2022-12-27T00:15:36Z|PT3M40S|29626|||||||
+#badapple #mathart #noneuclidean #mindbending #visualization #mathisbeautiful #mathgenius #mathisfun #mathisawesome #newconformist #conformal #hyperrogue #rogueviz"|2022-12-27T00:15:36Z|PT3M40S|29626.0|||||||
 Math|Physics simulation|https://www.youtube.com/watch?v=BFkKZnxJ9B4|||Bad Apple, but it's a physics simulation|"Programmed in C++ using OpenGL for rendering and my own physics engine for the physics. Before speeding up, the footage was about 16.5 hours.
 
 The animation relies on the deterministic behavior of the physics engine. The simulation is run twice, the first time calculate the colors of all balls, and saving them to a file. The second time around, the balls are spawned in with these colors, producing the animation.
@@ -110,7 +116,7 @@ The animation relies on the deterministic behavior of the physics engine. The si
 For more on my engine, see the two previous videos on my channel or you can view the source code here:  https://github.com/NathanMacLeod/ConstraintPhysics/tree/master
 
 You can specifically view the file related to generating this animation here:
-https://github.com/NathanMacLeod/ConstraintPhysics/blob/master/Demo/src/Demos/VideoDemo.h"|2023-07-28T17:49:19Z|PT4M9S|19503|||||||
+https://github.com/NathanMacLeod/ConstraintPhysics/blob/master/Demo/src/Demos/VideoDemo.h"|2023-07-28T17:49:19Z|PT4M9S|19503.0|||||||
 Math|Every frame is prime number|https://www.youtube.com/watch?v=FeyYAExxmaY|||Bad Apple but every frame is a prime number|"Primes generated with pictoprime: https://github.com/TotalTechGeek/pictoprime (and some horrible bash code to make sure it kept going despite errors)
 Time spent generating primes: ~7h
 
@@ -125,15 +131,15 @@ If you wish to see my insanity in creating this, visit the URCL discord where it
 
 This is the message that prompted it all, continue reading until you find this video: https://discord.com/channels/758395778376532059/759815411226902529/969636271343431710
 
-Also, if you really want to see the code, i've posted most of it in the linked discord channel"|2022-05-01T02:54:50Z|PT3M40S|439361|||||||
+Also, if you really want to see the code, i've posted most of it in the linked discord channel"|2022-05-01T02:54:50Z|PT3M40S|439361.0|||||||
 Math|Straight Lines|https://www.youtube.com/watch?v=Y-gFajE5UEM|||Bad Apple but with only straight lines|"Every line touches 2 edges of the image, and each frame consists of up to 5000 lines.
 Potential seizure warning
 
 Code: https://github.com/CameronChoy/BadAppleFLSL
-Original: https://youtu.be/FtutLA63Cp8"|2022-12-28T01:45:14Z|PT3M40S|1158820|||||||
-Math|String Art|https://www.youtube.com/watch?v=LJ3CyaFyJSc|||Bad Apple, But it's string art||2023-08-17T19:44:07Z|PT3M40S|92763|||||||
+Original: https://youtu.be/FtutLA63Cp8"|2022-12-28T01:45:14Z|PT3M40S|1158820.0|||||||
+Math|String Art|https://www.youtube.com/watch?v=LJ3CyaFyJSc|||Bad Apple, But it's string art||2023-08-17T19:44:07Z|PT3M40S|92763.0|||||||
 Math|Triangles|https://www.youtube.com/watch?v=zwPbJgWhQWY|||Bad Apple but drawn using triangles|"Song: ""Bad Apple!!"" by Alstroemeria Records featuring nomico
-Animation by Anira (あにら)"|2023-02-04T21:06:42Z|PT3M40S|6361|||||||
+Animation by Anira (あにら)"|2023-02-04T21:06:42Z|PT3M40S|6361.0|||||||
 Math|Triangles (50)|https://www.youtube.com/watch?v=_ica7OrbP4M|||Bad Apple but each frame is Made of 50 triangles|"Same thing but with circles: https://youtu.be/9xS1S1pmrDs
 Same thing but with rectangles: https://youtu.be/5lBEn2Tp4O0
 Playlist: https://www.youtube.com/playlist?list=PL-aXYSmg3_Q9ZQRECU2m6N1OUrh6PVxO6
@@ -142,7 +148,7 @@ I used the same method as the circle video but I exported it in the right ratio 
 
 Video Download: https://www.mediafire.com/file/3ht8y9lsmrofzji/Bad_Apple_Triangle_Raw.mp4/file
 Folder with each frame to prove it's 50 triangles: https://www.mediafire.com/file/lmrn5cqd4q8kbb1/triangle-output.zip/file
-(yes, it's only 6MB)"|2023-03-07T07:02:13Z|PT3M38S|5905|||||||
+(yes, it's only 6MB)"|2023-03-07T07:02:13Z|PT3M38S|5905.0|||||||
 Math|Rectangles (50)|https://www.youtube.com/watch?v=5lBEn2Tp4O0|||Bad Apple but Each Frame is Made of 50 Rectangles|"Same thing but with triangles: https://youtu.be/_ica7OrbP4M
 Same thing but with circles: https://youtu.be/9xS1S1pmrDs
 Playlist: https://www.youtube.com/playlist?list=PL-aXYSmg3_Q9ZQRECU2m6N1OUrh6PVxO6
@@ -151,7 +157,7 @@ Explanation is in the ^^above video description. All of the frames of this video
 
 Video Download: https://www.mediafire.com/file/8o9z3ltxmdtdq4v/Bad_Apple_but_each_frame_is_made_of_50_rectangles_Raw.mp4/file
 
-Folder with each frame in it: https://www.mediafire.com/file/mb0bdtomhjax7if/bad_apple_rectangle_frames.zip/file"|2023-03-12T13:07:35Z|PT3M38S|855|||||||
+Folder with each frame in it: https://www.mediafire.com/file/mb0bdtomhjax7if/bad_apple_rectangle_frames.zip/file"|2023-03-12T13:07:35Z|PT3M38S|855.0|||||||
 Math|Circles (50)|https://www.youtube.com/watch?v=9xS1S1pmrDs|||Bad Apple But Each Frame is Made of 50 Circles|"Same thing but with Triangles: https://youtu.be/_ica7OrbP4M
 Same thing but with Rectangles: https://youtu.be/5lBEn2Tp4O0
 Playlist https://www.youtube.com/playlist?list=PL-aXYSmg3_Q9ZQRECU2m6N1OUrh6PVxO6
@@ -168,14 +174,14 @@ I made a batch script (when I've never used it before) to make it process each i
 In total there were 6480 frames. It took about 12 hours to render. The energy bill has sky-rocketed.
 
 
-Also, can someone explain what Touhou is to me"|2023-02-27T06:42:49Z|PT3M38S|2283|||||||
+Also, can someone explain what Touhou is to me"|2023-02-27T06:42:49Z|PT3M38S|2283.0|||||||
 Math|Quantized parameters|https://www.youtube.com/watch?v=PbU_pvyYiZA|||Bad Apple but it's just the quantization parameter values|"Doing my part to adding to the madness.
 
 Original: https://youtu.be/FtutLA63Cp8
 
 Original video upscaled to 1080p and encoded using x264 with keyint 1 and CRF of 15, then FFmpeg and a python script were used to extract the QP values for each 16x16 macroblock and turn them into a video.
 
-I also tried 2160p (unlisted here: https://youtu.be/gK8qT2kTjH0), but I preferred the results of using 1080p."|2024-01-04T11:40:35Z|PT3M40S|6132|||||||
+I also tried 2160p (unlisted here: https://youtu.be/gK8qT2kTjH0), but I preferred the results of using 1080p."|2024-01-04T11:40:35Z|PT3M40S|6132.0|||||||
 Math|Edge Motion only|https://www.youtube.com/watch?v=iuLY_cLhiZU|||Bad Apple!! but it's only the motion and my code is broken [FLASHING LIGHTS WARNING!]|"SEIZURE WARNING: FLASHING LIGHTS
 Watch in 1440p/4K or YouTube will make this video look terrible. 4K is recommended even if you don't have a 4K display.
 
@@ -186,8 +192,8 @@ I put a lot of effort into the subtitles. Let me know if they are off at all.
 Code: https://github.com/nimaid/bad-apples/blob/main/bad-apples-glitch.py
 Subtitles: https://github.com/nimaid/bad-apples/tree/main/subs
 
-For those who care, the original idea was to use a dense optical flow algorithm to show only the movement of the edges in the video, with colors corresponding to the direction and the brightness corresponding to the speed. I initially planned to simply make the ""movement only"" effect, where only the moving edges were visible. However, I accidentally mixed up a few variable names, and then something close to what you see in the video happened! I thought it was awesome, so I ran with it and made it even more trippy."|2023-02-20T09:36:54Z|PT3M40S|100522|||||||
-Math|Outline only|https://www.youtube.com/watch?v=Lhv2Cr1me-g|||Bad apple but its JUST the outlines||2020-12-03T20:46:28Z|PT3M40S|81|||||||
+For those who care, the original idea was to use a dense optical flow algorithm to show only the movement of the edges in the video, with colors corresponding to the direction and the brightness corresponding to the speed. I initially planned to simply make the ""movement only"" effect, where only the moving edges were visible. However, I accidentally mixed up a few variable names, and then something close to what you see in the video happened! I thought it was awesome, so I ran with it and made it even more trippy."|2023-02-20T09:36:54Z|PT3M40S|100522.0|||||||
+Math|Outline only|https://www.youtube.com/watch?v=Lhv2Cr1me-g|||Bad apple but its JUST the outlines||2020-12-03T20:46:28Z|PT3M40S|81.0|||||||
 Math|Motion vectors|https://www.youtube.com/watch?v=-NKM0w-Xfts|||Bad Apple but just the motion vectors|"*and sounds like phone hold music
 
 ffplay -flags2 +export_mvs -i ./Touhou\ -\ Bad\ Apple.mp4 -vf ""split[src_a][src_b]; [src_a]codecview=mv=pf+bf+bb[vex]; [vex][src_b]blend=all_mode=grainextract,lumakey=threshold=0.5,eq=brightness=+.25,scale=2880x2160[vectors_alpha]; color=c=black:s=2880x2160[black]; [black][vectors_alpha]overlay=shortest=1[out]"" -af ""aresample=8000""
@@ -201,7 +207,7 @@ Vocalist: Nomico
 Album: Lovelight
 Publisher: AlstroemeriaRecords
 Original song: ""Bad Apple!!""
-Composer: Jun'ya Ota (aka ZUN)"|2024-01-22T01:44:44Z|PT3M40S|6156|||||||
+Composer: Jun'ya Ota (aka ZUN)"|2024-01-22T01:44:44Z|PT3M40S|6156.0|||||||
 Math|Motion colored|https://www.youtube.com/watch?v=3FMQdsBw1JY|||Bad Apple!! but the motion is color coded [Original]|"Newer, better version: https://www.youtube.com/watch?v=vPIJ6Ya0HMU
 
 This is my take on Bad Apple where I tried to ""make the motion colorful"". I like it, and I hope you enjoy it too!
@@ -213,13 +219,13 @@ While this is much easier to look at, I still like my earlier version with the b
 Code: https://github.com/nimaid/bad-apples
 Subtitles: https://github.com/nimaid/bad-apples/tree/main/subs
 
-For those who care, I used a dense optical flow algorithm to show the movement of the edges in the video, with colors corresponding to the direction and the brightness corresponding to the speed. I initially planned to simply make the ""movement only"" effect, where only the moving edges were visible. But once I got that working, I realized it wasn't very fun to look at alone, so I layered it over the source video with the blending mode ""difference""."|2023-02-23T08:33:49Z|PT3M40S|11918|||||||
-Math|Motion trail, pastels|https://www.youtube.com/watch?v=i4lNGbdoaNs|||BAD APPLE - But it's Matrices Rendered with PASTEL COLORS|The well-known Bad Apple song, bug rendered using matplotlib's pastel color theme, and applied a motion trail.|2021-01-27T17:21:43Z|PT3M40S|539|||||||
+For those who care, I used a dense optical flow algorithm to show the movement of the edges in the video, with colors corresponding to the direction and the brightness corresponding to the speed. I initially planned to simply make the ""movement only"" effect, where only the moving edges were visible. But once I got that working, I realized it wasn't very fun to look at alone, so I layered it over the source video with the blending mode ""difference""."|2023-02-23T08:33:49Z|PT3M40S|11918.0|||||||
+Math|Motion trail, pastels|https://www.youtube.com/watch?v=i4lNGbdoaNs|||BAD APPLE - But it's Matrices Rendered with PASTEL COLORS|The well-known Bad Apple song, bug rendered using matplotlib's pastel color theme, and applied a motion trail.|2021-01-27T17:21:43Z|PT3M40S|539.0|||||||
 Math|Library of Babel|https://www.youtube.com/watch?v=_0IVVw7g23o|||Bad Apple in Library of Babel|"6412 unique pages total
 
 Page URLs (6572 frames) for those who want to print them: https://gist.github.com/Noxturnix/4f0c27b7cd1a8b4685c5a37fed7893d1
 
-https://libraryofbabel.info/"|2021-04-28T16:41:35Z|PT3M40S|37343|||||||
+https://libraryofbabel.info/"|2021-04-28T16:41:35Z|PT3M40S|37343.0|||||||
 Math|Frames of Bad Apple 1|https://www.youtube.com/watch?v=2wfb9KemJlk|||Bad Apple but its made from frames of Bad Apple|"Bad Apple made from a 30x30 grid of the frames of Bad Apple
 
 1. convert original video to image sequence (cropped to 1440x1080 for nice math)
@@ -232,17 +238,17 @@ Made with ffmpeg and opencv, took about 2 hours to process with un-optimised cod
 
 Credits:
 Music by Alstroemeria Records (feat nomico):  https://www.youtube.com/watch?v=i41KoE0iMYU&t=0s
-Animation by あにら (Anira)."|2024-01-17T03:49:12Z|PT3M39S|75738|||||||
+Animation by あにら (Anira)."|2024-01-17T03:49:12Z|PT3M39S|75738.0|||||||
 Math|Frames of Bad Apple 2|https://www.youtube.com/watch?v=qXqyL4c2_1M|||Bad Apple but it's Bad Apple (Flashing Lights)|"The original video that I used to create this: https://www.youtube.com/watch?v=FtutLA63Cp8
 
 Subscribe if you want. I have some more projects in the works.
 
 If this video does well maybe I'll make Bad Apple but it's Bad Apple but it's Bad Apple. I'd probably use a 4k 60fps version of the video if I did this again, so it would look even better, and the inception could go even deeper.
 
-Support me on Patreon: https://www.patreon.com/AI_nthony"|2021-05-31T17:00:10Z|PT3M40S|7740|||||||
-Math|Boids|https://www.youtube.com/watch?v=K3xjY1EstBA|||Bad Apple but it's played with Boids Algorithm||2023-03-21T17:58:14Z|PT3M44S|2561|||||||
-Math|Voronoi|https://www.youtube.com/watch?v=LxKPYRsidb4|||Bad Apple but it's Voronoi Diagram||2023-12-27T04:41:26Z|PT3M40S|135|||||||
-Math|Voronoi 1,500 cells|https://www.youtube.com/watch?v=AfWONEQ82mo|||[Seizure Warning] Bad Apple, but I only have 1500 voronoi cells every frame|uses iterative error reduction via voronoi cell decomposition|2024-01-20T04:15:25Z|PT3M40S|47|||||||
+Support me on Patreon: https://www.patreon.com/AI_nthony"|2021-05-31T17:00:10Z|PT3M40S|7740.0|||||||
+Math|Boids|https://www.youtube.com/watch?v=K3xjY1EstBA|||Bad Apple but it's played with Boids Algorithm||2023-03-21T17:58:14Z|PT3M44S|2561.0|||||||
+Math|Voronoi|https://www.youtube.com/watch?v=LxKPYRsidb4|||Bad Apple but it's Voronoi Diagram||2023-12-27T04:41:26Z|PT3M40S|135.0|||||||
+Math|Voronoi 1,500 cells|https://www.youtube.com/watch?v=AfWONEQ82mo|||[Seizure Warning] Bad Apple, but I only have 1500 voronoi cells every frame|uses iterative error reduction via voronoi cell decomposition|2024-01-20T04:15:25Z|PT3M40S|47.0|||||||
 Math|Audio waveform|https://www.youtube.com/watch?v=klp-iLP6eXw|||bad apple but it is in an audio waveform|"yes the sound really does come from the waves!
 
 how this was made: # damn I just kept typing and typing and now this is a wall of text exactly 3,000 characters long!
@@ -258,62 +264,62 @@ and it works really well and if you don't believe what you are hearing is coming
 here is a download of that audio file: drive.google.com/file/d/1lSj4XUC1pphsTAAZ5IWIS-Mt1axhteSw/view?usp=sharing
 maybe you can try to make it the scrolling smother or something and make sure to credit me if you do :) if you don't want to it's ok just don't claim that you made this yourself
 
-im also working on some subtitle effects so that it's like some kind of stereo display that says ""now playing"" or whatever and then puts some black and white computer generated effects on it, right now I don't have any of that besides the scrolling text"|2024-01-18T23:33:08Z|PT4M27S|52276|||||||
-Math|Color sort|https://www.youtube.com/watch?v=Y0ntGw9kE_0|||Bad Apple but color sort|The github and an explanatory video is coming this week|2024-01-22T20:32:24Z|PT3M45S|3244|||||||
+im also working on some subtitle effects so that it's like some kind of stereo display that says ""now playing"" or whatever and then puts some black and white computer generated effects on it, right now I don't have any of that besides the scrolling text"|2024-01-18T23:33:08Z|PT4M27S|52276.0|||||||
+Math|Color sort|https://www.youtube.com/watch?v=Y0ntGw9kE_0|||Bad Apple but color sort|The github and an explanatory video is coming this week|2024-01-22T20:32:24Z|PT3M45S|3244.0|||||||
 Math|Quadtree nested|https://www.youtube.com/watch?v=fRkwauKPC6I|||Bad Apple!! but Bad Apple!! but in a Quadtree|"Cover:
 -Voice: https://youtu.be/bz7DcGBwaF4
--Instr.: https://youtu.be/iO5-RpQAIt4"|2021-07-27T18:30:37Z|PT3M40S|1715|||||||
-Math|Quadtree|https://www.youtube.com/watch?v=VKlc9vJZZ4k|||Bad Apple!! growing on a quadtree||2021-04-14T17:26:39Z|PT3M40S|356|||||||
+-Instr.: https://youtu.be/iO5-RpQAIt4"|2021-07-27T18:30:37Z|PT3M40S|1715.0|||||||
+Math|Quadtree|https://www.youtube.com/watch?v=VKlc9vJZZ4k|||Bad Apple!! growing on a quadtree||2021-04-14T17:26:39Z|PT3M40S|356.0|||||||
 Math|Quadtree “Among us”|https://www.youtube.com/watch?v=G434WPz8MRk|||Bad Apple!! but it's a sussy quadtree algorithm written in Rust|"the code: https://github.com/JacopoWolf/quadtree-over-media-rs
 
 inspired by: https://youtu.be/UbaBI-XxGbo
 the ""inspired by""  code: https://github.com/snailcon/QuadtreeAmogufier
 
 
-This video has been created using ffmpeg and my cargo installed quadtree-over-media rust program, by simply splitting the original video and passing the frames to xargs, and then recombining everything and joining the audio."|2022-09-02T15:03:30Z|PT3M40S|137|||||||
+This video has been created using ffmpeg and my cargo installed quadtree-over-media rust program, by simply splitting the original video and passing the frames to xargs, and then recombining everything and joining the audio."|2022-09-02T15:03:30Z|PT3M40S|137.0|||||||
 Math|Quadtree shader/Jupyter notebook|https://www.youtube.com/watch?v=GgtSNqpMp00|||Bad Apple But It's A Quadtree Rendered in Shader in a Jupyter Notebook|"This was made as a demo for my project *pySSV* (https://github.com/space928/Shaders-For-Scientific-Visualisation ). 
 The original video was converted into quadtree where each frame of the video is represented by a single row of the final animation texture. This texture was parsed by a vertex shader which outputs a vertex position and point size for each quad in the frame which then generated by a geometry shader. The final rendered frame (rendered in a separate process in OpenGL) is then streamed into the Jupyter notebook in realtime.
 
 The code to render video can be found here:
 https://github.com/space928/Shaders-For-Scientific-Visualisation/blob/main/examples/additional_examples.ipynb
 The code to generate the quadtree can be found here:
-https://github.com/space928/badapple-quadtree-encoder"|2024-01-10T08:38:08Z|PT3M53S|20|||||||
+https://github.com/space928/badapple-quadtree-encoder"|2024-01-10T08:38:08Z|PT3M53S|20.0|||||||
 Math|Crystal Lattice Impurities|https://www.youtube.com/watch?v=Jnb0uXe7bDs|||Bad Apple but its crystal lattice impurities|"Inspired by @SteveMould's video about ball bearings: https://www.youtube.com/watch?v=O3RsDIWB7s0
 
-Best watched on a small-ish screen."|2023-12-07T14:27:05Z|PT3M40S|6109|||||||
+Best watched on a small-ish screen."|2023-12-07T14:27:05Z|PT3M40S|6109.0|||||||
 Math|Molecular dynamics|https://www.youtube.com/watch?v=7OUZVY_Iy2w|||Bad Apple but it's molecular dynamics simulation|"A molecular dynamics simulation of 40 000 atoms with Lennard-Jones potential was made in LAMMPS code.
 https://www.lammps.org
 Visualization by OVITO.
 https://www.ovito.org
 9 hours of simulations and almost the same amount for rendering on Ryzen 5 3600.
 
-OG: Bad Apple!! feat.nomico, Alstroemeria Records https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-02-10T12:32:23Z|PT3M46S|115662|||||||
+OG: Bad Apple!! feat.nomico, Alstroemeria Records https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-02-10T12:32:23Z|PT3M46S|115662.0|||||||
 Math|Electrostatic field|https://www.youtube.com/watch?v=Y7G6r1DkMJA|||Bad Apple but it's an electrostatic field particle simulation|"Each frame there are charges placed on the contours of image. The contributions of each charge are calculated using the inverse square law and added to the field. The particles move due to the field forces that move them away from the contours and due to spring forces that try to move them back to their original positions.
 
 Song: ""Bad Apple!!"" by Alstroemeria Records featuring nomico
-Animation by Anira (あにら)"|2023-12-28T18:26:05Z|PT3M49S|83672|||||||
+Animation by Anira (あにら)"|2023-12-28T18:26:05Z|PT3M49S|83672.0|||||||
 Math|Electrostatic charged dots|https://www.youtube.com/watch?v=cU2cLzkJBqs|||Bad Apple!! But it's 16,384 Electrostatically Charged Dots in an N-body simulation in 4K|"(Possible photosensitivity warning?)
 
 While looking around for dithering algorithms I learned about electrostatic halftoning, a way to create high-quality dithered images using physical simulation, and eventually found an actual implementation I could use to create these (https://github.com/mwkm/atoMeow). After some tweaking on the parameters, the source images, and some fixes for the code, this is the end result.
 
-The benefits of using this kind of physically simulated model is that with traditional dithering algorithms, different frames can create completely different positions for the individual pixels - creating a fairly ugly effect, and it's still created at the original resolution. With these dots, the final image size can be arbitrary (I chose 4K to avoid issues with the dots and youtube compression), and the individual dots will simply reposition themselves on subseqeuent frames, making for the nice flowing effect you can see in many sections."|2023-09-17T06:23:22Z|PT3M40S|352|||||||
+The benefits of using this kind of physically simulated model is that with traditional dithering algorithms, different frames can create completely different positions for the individual pixels - creating a fairly ugly effect, and it's still created at the original resolution. With these dots, the final image size can be arbitrary (I chose 4K to avoid issues with the dots and youtube compression), and the individual dots will simply reposition themselves on subseqeuent frames, making for the nice flowing effect you can see in many sections."|2023-09-17T06:23:22Z|PT3M40S|352.0|||||||
 Math|Ising Ferromagnet Model|https://www.youtube.com/watch?v=tlGv9jt3gJg|||Bad Apple!! played on Ferromagnets|"Using the Ising model for Ferromagnets and C programming I made the Issing model to play Bad Apple!! ~ Alstroemeria Records.  
 
-Background: White = magnets pointing up, Black = magnets pointing down. Neighbouring magnets want to align (same colour) but can be prevented from doing so by temperature (entropy) and external magnetic fields. In this video, I used the external magnetic fields to force the magnetic pointing direction to align with Bad Apple!!."|2021-07-19T09:28:44Z|PT3M40S|621|||||||
+Background: White = magnets pointing up, Black = magnets pointing down. Neighbouring magnets want to align (same colour) but can be prevented from doing so by temperature (entropy) and external magnetic fields. In this video, I used the external magnetic fields to force the magnetic pointing direction to align with Bad Apple!!."|2021-07-19T09:28:44Z|PT3M40S|621.0|||||||
 Math|Frame to Frame Difference|https://www.youtube.com/watch?v=JvcCBDFkNiA|||Bad Apple, but only the difference to the previous frame|"You can only see the difference to the previous frame. Gray means that the color didn't change between the frames, black means it changed from white to black, and white means it changed from black to white. Things that don't move (e.g. the orb at 1:38) become invisible because of this. This should in theory work with any video, but I think Bad Apple shows this effect best.
 The effect was made in Blender using compositor nodes.
 
 And no, I did not see Posy's video until after I made mine, but both use the same effect.
 Posy's video: https://www.youtube.com/watch?v=NSS6yAMZF78
 
-Music: ""Bad Apple!!"" by Alstroemeria Records"|2023-12-27T11:35:08Z|PT3M40S|388373|||||||
+Music: ""Bad Apple!!"" by Alstroemeria Records"|2023-12-27T11:35:08Z|PT3M40S|388373.0|||||||
 Math|Hard to see (Datamosh)|https://www.youtube.com/watch?v=rKhIQkPCxv0|||Bad Apple but its hard to see|"Made with https://github.com/Akascape/Datamosher-Pro/
 
 brrrr
 
-#badapple #touhou #datamosh"|2023-08-15T07:09:01Z|PT3M40S|6647|||||||
+#badapple #touhou #datamosh"|2023-08-15T07:09:01Z|PT3M40S|6647.0|||||||
 Math|Invisible|https://www.youtube.com/watch?v=Myeatl2Q3wM|||Bad apple but if you pause you cant see (Remaster)|"Thank you all for 1 Million views!
-This was one of my biggest projects and it is very inspiring to know what can happen with enough time and effort."|2023-01-29T02:04:56Z|PT3M40S|2158714|||||||
+This was one of my biggest projects and it is very inspiring to know what can happen with enough time and effort."|2023-01-29T02:04:56Z|PT3M40S|2158714.0|||||||
 Math|Can’t move your eyes|https://www.youtube.com/watch?v=-MTnnPpOyC4|||"WorstApple #11 | Bad Apple But You Have To Squint"|"sorry if you cant see it.
 TIPS:
 lower screen brightness
@@ -323,8 +329,8 @@ Waste of money:
 patreon.com/WorstApple
 
 Tags i guess:
-#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-02-25T04:15:09Z|PT3M37S|6640|||||||
-Math|Left pixels render before right pixels|https://www.youtube.com/watch?v=K0SPxLnPrdA|||Bad Apple but the pixels to the left change too early and the pixels to the right too late.|More trippy bad apple stuff. If there is someone else I can try with this video, leave suggestions in the comments.|2023-12-26T15:45:43Z|PT3M40S|2613|||||||
+#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-02-25T04:15:09Z|PT3M37S|6640.0|||||||
+Math|Left pixels render before right pixels|https://www.youtube.com/watch?v=K0SPxLnPrdA|||Bad Apple but the pixels to the left change too early and the pixels to the right too late.|More trippy bad apple stuff. If there is someone else I can try with this video, leave suggestions in the comments.|2023-12-26T15:45:43Z|PT3M40S|2613.0|||||||
 Math|Topographic render|https://www.youtube.com/watch?v=4o0nuoEsdGE|||Bad Apple, but it's topography render|"I used Bad Apple to learn automation in Gaea. Admittedly, template for generation is lacking and very simple, but it's a learning project after all :)
 I have 3 variations of this render, this is first of them. Maybe i'll do more Bad Apple renders in future with other software, or find ways to render it more interesting in Gaea again.
 I used Topaz to upscale frames 2x for this project.
@@ -338,38 +344,38 @@ Animation by あにら (Anira).
 Thanks to Felixoofed for repo with frames - https://github.com/Felixoofed/badapple-frames
 
 ---
-If you want to support me, feel free to sub to my Patreon - https://www.patreon.com/anzhc"|2024-01-05T19:50:38Z|PT3M40S|9471|||||||
+If you want to support me, feel free to sub to my Patreon - https://www.patreon.com/anzhc"|2024-01-05T19:50:38Z|PT3M40S|9471.0|||||||
 Math|Signed Distance Field|https://www.youtube.com/watch?v=evSzs3q_tME|||Bad Apple but it's a signed distance field|"Song: ""Bad Apple!!"" by Alstroemeria Records featuring nomico
-Animation by Anira (あにら)"|2023-03-11T01:54:47Z|PT3M40S|6578|||||||
+Animation by Anira (あにら)"|2023-03-11T01:54:47Z|PT3M40S|6578.0|||||||
 Math|QR Code|https://www.youtube.com/watch?v=tPYUdjptMpk|||Bad Apple but it is played with QR code|"Yet another Bad Apple. The data inside the QR code are the romanization of the lyrics. 
 
 I do not own the original video and music. I only own the program that generates this video.
 
 Q: How does this work?
-A: Dithering and only keeping the pixels that are needed for QR codes."|2022-10-26T17:08:19Z|PT3M40S|190536|||||||
+A: Dithering and only keeping the pixels that are needed for QR codes."|2022-10-26T17:08:19Z|PT3M40S|190536.0|||||||
 Math|Analog Clocks|https://www.youtube.com/watch?v=hAHXZCAqN4A|||"WorstApple #3 | Bad Apple But Its ANALOG Clocks..."|"Its finally done lets go!!
 
 Uhhhhhh this took like 2 weeks and probably over 10 hours to code so like the video or something I guess or don't I don't really care.
 
 Tags i guess:
-#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-01-31T16:50:40Z|PT3M36S|94438|||||||
+#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-01-31T16:50:40Z|PT3M36S|94438.0|||||||
 Math|Analog Clock (One)|https://www.youtube.com/watch?v=IfcItGA9L24|||"WorstApple #4 | Bad Apple But Its ONE ANALOG CLOCK Because I Was Dared To..."|"Actually how edition? how is this even possible? how did I even do this? idek but its past my bedtime so gn now.
 
 Waste of money:
 patreon.com/WorstApple
 
 Tags i guess:
-#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-02-06T05:11:25Z|PT3M35S|240533|||||||
+#badapple #bad #apple #python #coding #code #broken #fractal #trippy #worstapple #worstappleever #magiceye #60fps #color #original #badapplebut #but #ai #lyrics"|2023-02-06T05:11:25Z|PT3M35S|240533.0|||||||
 Math|64 Sliders|https://www.youtube.com/watch?v=5nfJHWNco60|||"""Bad Apple"", remade using 64 sliders"|"Learn how to make your own animations at https://sliderland.blinry.org
 
-Also check out my music video ""Tides"": https://www.youtube.com/watch?v=bUTPlQzfz1k"|2022-06-24T16:40:01Z|PT3M39S|416|||||||
-Math|Chroma Keyed|https://www.youtube.com/watch?v=i8GeLZcAe0Q|||Bad apple but its chroma keyed|I chroma-keyed bad apple, cuz its just 2 colors.|2019-06-26T09:58:19Z|PT3M40S|62|||||||
-Math|Chromatic Aberration|https://www.youtube.com/watch?v=I1-MXbdOLzE|||Bad Apple With Chromatic Aberration||2024-02-05T02:36:49Z|PT3M40S|702|||||||
+Also check out my music video ""Tides"": https://www.youtube.com/watch?v=bUTPlQzfz1k"|2022-06-24T16:40:01Z|PT3M39S|416.0|||||||
+Math|Chroma Keyed|https://www.youtube.com/watch?v=i8GeLZcAe0Q|||Bad apple but its chroma keyed|I chroma-keyed bad apple, cuz its just 2 colors.|2019-06-26T09:58:19Z|PT3M40S|62.0|||||||
+Math|Chromatic Aberration|https://www.youtube.com/watch?v=I1-MXbdOLzE|||Bad Apple With Chromatic Aberration||2024-02-05T02:36:49Z|PT3M40S|702.0|||||||
 Math|Ph Level (Java Processing)|https://www.youtube.com/watch?v=lhO7S90K_DU|||Bad Apple but it's a solution pH level|"In this Java Processing simulation I had a surface of water molecules,  And I am constantly changing the equilibrium constant for the dissociation of water as a function of position.
 
 I am using H+ instead of  H3O+ in order to make the simulation run faster.
 H2O = OH−  +   H+
-When the color in a specific location should be darker I change the constant so the water molecules will tend to dissociate and lower the pH. when the color in a specific location should be lighter I change the constant such that the opposite ions will merge a lot faster, thus raising the pH."|2024-01-25T23:15:01Z|PT3M40S|278|||||||
+When the color in a specific location should be darker I change the constant so the water molecules will tend to dissociate and lower the pH. when the color in a specific location should be lighter I change the constant such that the opposite ions will merge a lot faster, thus raising the pH."|2024-01-25T23:15:01Z|PT3M40S|278.0|||||||
 Math|Random grayscale squares (P5js)|https://www.youtube.com/watch?v=hmO37XaZq1A|||Bad Apple & Nico Nico nii~ but its changing squares|"Enjoy 'Bad Apple' on randomly changing grayscale squares created with p5.js.
 
 Timestamps 
@@ -380,14 +386,14 @@ Original video: https://www.youtube.com/watch?v=FtutLA63Cp8
 try it at: https://aspar13.github.io/bad-apple/
 code: https://github.com/aspar13/bad-apple/blob/main/sketch.js
 
-#badapple #niconiconii #creativecoding #animemusicvideo"|2023-07-10T17:48:14Z|PT4M4S|975|||||||
-Math|Random frames|https://www.youtube.com/watch?v=gidPKVibbnQ|||Bad Apple... But each frame is RANDOM.||2021-04-18T04:21:03Z|PT3M40S|559|||||||
+#badapple #niconiconii #creativecoding #animemusicvideo"|2023-07-10T17:48:14Z|PT4M4S|975.0|||||||
+Math|Random frames|https://www.youtube.com/watch?v=gidPKVibbnQ|||Bad Apple... But each frame is RANDOM.||2021-04-18T04:21:03Z|PT3M40S|559.0|||||||
 Math|Overfitted Neural Network (Colab)|https://www.youtube.com/watch?v=CCX2ODHxLi0|||Bad Apple but it's the output of an overfitted neural network|"This is Bad Apple, but it's an autoencoder trained off of each frame's timestamp.
 Google Colab link here: colab.research.google.com/drive/1TGvm_xZrHqdoGyWzAKD6_3qxNfUfmYyG?usp=sharing
 
 Credits:
 Music by Alstroemeria Records (feat nomico).
-Animation by あにら (Anira)."|2024-02-04T22:32:07Z|PT3M40S|169|||||||
+Animation by あにら (Anira)."|2024-02-04T22:32:07Z|PT3M40S|169.0|||||||
 Math|Country Flags|https://www.youtube.com/watch?v=I6BZDYoDJPI|||"Bad Apple but it's made out of flags | 悪い りんご でもそれは旗でできている"|"The flags I mainly used for this were Hong Kong, Turkiye and Japan.
 
 #badapple #flags 
@@ -395,33 +401,33 @@ Math|Country Flags|https://www.youtube.com/watch?v=I6BZDYoDJPI|||"Bad Apple but 
 Bad Apple but it's made out of flags,
 悪い りんご でもそれは旗でできている,
 Плохое яблоко, но оно сделано из флагов,
-Maçã ruim, mas é feita de bandeiras"|2024-01-28T06:38:41Z|PT3M40S|633|||||||
+Maçã ruim, mas é feita de bandeiras"|2024-01-28T06:38:41Z|PT3M40S|633.0|||||||
 Math|Compressed under 2GB|https://www.youtube.com/watch?v=kf2TkH7fyWQ|||Bad Apple but it's compressed to under 2GB|"this video is sooo me when I don't wanna pay for discord nitro but I still wanna send something to my friends. will do another Sonic Boll run either tomorrow or this weekend
 -
-https://www.speedrun.com/user/michaela7 : src profile"|2021-02-17T01:08:27Z|PT3M40S|56|||||||
+https://www.speedrun.com/user/michaela7 : src profile"|2021-02-17T01:08:27Z|PT3M40S|56.0|||||||
 Math|Lossless Compression 3.3MB|https://www.reddit.com/r/ItPlaysBadApple/comments/12jr5uw/bad_apple_but_the_losslessly_compressed_video/|https://www.mediafire.com/file/15t7z5l5dt727ch/small_apple.zip/file|Code & Video||||||||||||
-Math|99.89% compressed autoencoder|https://www.youtube.com/watch?v=c7mQCq4duFQ|||"Bad Apple but it's been compressed by 99.89% using ""AI"" (autoencoder)"|Using an autoencoder each frame of the video was compressed down to a 128 dimensional vector. The starting resolution was 400x300, meaning each frame has 120000 values, so compressing it down to 128 values is a compression of 99.89%. You can see some interesting over fitting? where it really want's things to be split along the middle even though just a handful of scenes use this fully.|2022-11-05T22:47:46Z|PT3M40S|2153|||||||
+Math|99.89% compressed autoencoder|https://www.youtube.com/watch?v=c7mQCq4duFQ|||"Bad Apple but it's been compressed by 99.89% using ""AI"" (autoencoder)"|Using an autoencoder each frame of the video was compressed down to a 128 dimensional vector. The starting resolution was 400x300, meaning each frame has 120000 values, so compressing it down to 128 values is a compression of 99.89%. You can see some interesting over fitting? where it really want's things to be split along the middle even though just a handful of scenes use this fully.|2022-11-05T22:47:46Z|PT3M40S|2153.0|||||||
 Math|ECB Encrypted|https://www.youtube.com/watch?v=g8CcqQPHNfo|||Bad Apple but it's encrypted using ECB|"friends don't let friends use ECB
 sorry the source video is low res, i don't care to pick a higher quality one
 i doubled the pixel size so chroma subsampling doesn't fuck up encrypted rgb color as badly
-https://codeberg.org/nyanpasu64/bad-apple-encrypted"|2023-02-28T13:43:53Z|PT3M40S|4303|||||||
+https://codeberg.org/nyanpasu64/bad-apple-encrypted"|2023-02-28T13:43:53Z|PT3M40S|4303.0|||||||
 Math|1d|https://www.youtube.com/watch?v=iXS94D5m4gU|||Bad Apple, but it's 1-Dimensional|"Very weird, I know.
 Disclaimer:
-I do not own Bad Apple or Touhou. this video is created only for Entertainment and Promotion purposes only."|2023-03-03T16:35:14Z|PT3M40S|2418|||||||
+I do not own Bad Apple or Touhou. this video is created only for Entertainment and Promotion purposes only."|2023-03-03T16:35:14Z|PT3M40S|2418.0|||||||
 Fractal|Julia Set|https://www.youtube.com/watch?v=IoMNX0leJEk|||Bad Apple but it's a Julia Set Fractal [SEIZURE WARNING]|"Based on Inigo Quilez's bitmap orbit traps and Rong Guodong's jump flooding algorithm.
-Used https://youtu.be/vPibHW94on4 for the source."|2024-01-28T03:20:20Z|PT3M38S|1146|||||||
+Used https://youtu.be/vPibHW94on4 for the source."|2024-01-28T03:20:20Z|PT3M38S|1146.0|||||||
 Fractal|Mandelbrot Zoom|https://www.youtube.com/watch?v=-eFo4UWZTEQ|||Bad Apple but it's a Fractal but it's Better Quality|"Another epic Bad Apple fusion made with the open source IDE Processing and some java code. It is rendered with a combination of a bitmap orbit trap and smooth iteration count coloring. I will consider making a video explaining the process in the near future.
 
-Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2024-02-02T13:42:36Z|PT3M40S|6904|||||||
+Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2024-02-02T13:42:36Z|PT3M40S|6904.0|||||||
 Fractal|Julia Set 2|https://www.youtube.com/watch?v=dOd3976IkFE|||Bad Apple but it's a Julia Set Fractal but it's a Unity App [SEIZURE WARNING]|"I made a Unity app to easily tweak the settings and render basically any julia set.
 Based on Inigo Quilez's bitmap orbit traps and Rong Guodong's jump flooding algorithm.
-Used https://youtu.be/vPibHW94on4 for the source."|2024-02-02T18:18:24Z|PT3M52S|39|||||||
+Used https://youtu.be/vPibHW94on4 for the source."|2024-02-02T18:18:24Z|PT3M52S|39.0|||||||
 Fractal|Mandelbrot Zoom 2|https://www.youtube.com/watch?v=mFac2Ux5rEA|||Bad Apple but it's a fractal|"Bad Apple but it's a zoom into the Mandelbrot set rendered using a bitmap orbit trap technique by Inigo Quilez. Apologies for the terrible quality. The renderer isn't optimised since I coded it myself. I will consider making a video explaining the process behind the video. Also, there is a better quality version with a twistavailable on my channel.
 
-Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2024-01-20T18:41:53Z|PT3M40S|43636|||||||
+Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2024-01-20T18:41:53Z|PT3M40S|43636.0|||||||
 Fractal|Mandelbrot Zoom 3|https://www.youtube.com/watch?v=yt5pN7M3XDY|||Bad Apple, but it's a Mandelbrot zoom|"Generated using my own C++ Mandelbrot engine.
 
-Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2023-10-17T22:48:49Z|PT3M40S|2979|||||||
+Music: Bad Apple!! feat.nomico, Alstroemeria Records"|2023-10-17T22:48:49Z|PT3M40S|2979.0|||||||
 AI|Stable Diffusion + Colored|https://www.youtube.com/watch?v=8tO15bXbGdk|||Bad Apple but it's AI Generated & Colorized with Stable Diffusion using ControlNet + Deforum|"Video created with Stable Diffusion Using Deforum and Controlnet in AUTO1111. Find more of my work on this page or my other channel @SNCKPCK - Workflow Below! :) & Thanks for watching!
 
 Workflow:
@@ -436,7 +442,7 @@ Final project folder contains 22,648 files & 496 folders. Hardware - 3090.
 
 Any questions? Just leave a comment! 
 
-If you liked this here is my other Bad Apple AI video https://youtu.be/u49m7_M2gUc"|2023-03-10T17:02:07Z|PT5M25S|124728|||||||
+If you liked this here is my other Bad Apple AI video https://youtu.be/u49m7_M2gUc"|2023-03-10T17:02:07Z|PT5M25S|124728.0|||||||
 AI|Paintings|https://www.youtube.com/watch?v=E58aMjthQCM|||[Seizure Warning] Bad Apple, but Played Through AI-generated Paintings|"Like it says in the title. 
 For the record, this is an HD reupload. The original 480p video proved to be too crunchy: https://youtu.be/_4n7sUFI3L8
 I spent 13ish hours in total generating the images and... less than 15 minutes editing it and rendering it.
@@ -479,13 +485,13 @@ When you're ready to AI-ify the frames, switch Controlnet to 'Batch' and point i
 Once it's done generating, go to the webui's outputs/[date] folder (and maybe copy them to someplace else), rename the frames so they're in increasing numerical order, then open the PNG sequence in your favorite video editor and sync up the audio.
 
 Be sure to comment if you have any questions with the process above (or, y'know, just search online for it)
-Have fun! May the GPU's of heretics suffer."|2023-09-21T02:37:26Z|PT3M40S|470560|||||||
+Have fun! May the GPU's of heretics suffer."|2023-09-21T02:37:26Z|PT3M40S|470560.0|||||||
 AI|Landscape Paintings|https://www.youtube.com/watch?v=RPLnj6vayjw|||Bad Apple but its AI generated landscape paintings [Photosensitivity warning]|"PHOTOSENSITIVITY WARNING, the fast changing frames in this video have high contrast at times and may not be safe for viewers sensitive to flashing lights
 Original: https://youtu.be/FtutLA63Cp8
 Made using stable diffusion, controlnet, mov2mov, and several hours of my life that I'll never get back.
 I saw some meme on discord that initially just looked like the average shifting AI art video until I realized that hidden within it was another video, I was like hey that looks cool I wonder if I could do it with bad apple, so I did.
 
-I will probably not do this again."|2023-09-30T02:39:21Z|PT3M40S|13276|||||||
+I will probably not do this again."|2023-09-30T02:39:21Z|PT3M40S|13276.0|||||||
 AI|Vertically Extended|https://www.youtube.com/watch?v=lw54bDJSpnU|||Bad Apple, but it’s extended vertically using AI|"Credit to Anira for the original.
 
 Bad Apple Youtube Video: https://www.youtube.com/watch?v=FtutLA63Cp8
@@ -498,7 +504,7 @@ To learn how I did this, check out my Patreon. I created it very recently. My fu
 
 Patreon: https://www.patreon.com/AI_nthony
 
-#badapple #touhou #ai"|2023-03-02T01:35:12Z|PT3M45S|28868|||||||
+#badapple #touhou #ai"|2023-03-02T01:35:12Z|PT3M45S|28868.0|||||||
 AI|Semi-realism|https://www.youtube.com/watch?v=zIY17xqTzmk|||Bad Apple but Semi Realism style (Ai Generated)|"#aianimation #badapple #ai 
 ""Bad Apple!! but it's made using AI"" Stable Diffusion.
 But, this is just an experiment and the results are not good enough, maybe I will try next using a different technique
@@ -512,13 +518,13 @@ Follow My Social Media
 Instagram : https://www.instagram.com/museoai/ 
 (there I will discuss AI understanding content, especially stable diffusion ai generated images)
 Pixiv : https://www.pixiv.net/en/users/40477069
-(Random AI Images)"|2023-03-16T10:21:31Z|PT3M38S|251491|||||||
+(Random AI Images)"|2023-03-16T10:21:31Z|PT3M38S|251491.0|||||||
 AI|Lyrics|https://www.youtube.com/watch?v=Q59_s_BPgC8|||Bad Apple!! but the lyrics is visualized by an AI|"AI used: midjourney
 
 Song:
 Bad Apple!! feat.nomico by Alstroemeria Records
-original: https://www.youtube.com/watch?v=i41KoE0iMYU"|2022-07-02T16:06:10Z|PT5M20S|20835|||||||
-AI|Trees|https://www.youtube.com/watch?v=OjiDuAljJoc|||Bad Apple but EVERY frame is AI generated.|Had to re-upload because i said fuck it and did the video in 1080P to stop some of Youtubes terrible compression. So now the video is in 1080P even though the images themselves are in 480p, But the Youtube will most likely compress the video more so in the next few hours i will post a MEGA link to the uncompressed 1080P video and all images used.|2023-10-17T06:40:28Z|PT3M40S|3760|||||||
+original: https://www.youtube.com/watch?v=i41KoE0iMYU"|2022-07-02T16:06:10Z|PT5M20S|20835.0|||||||
+AI|Trees|https://www.youtube.com/watch?v=OjiDuAljJoc|||Bad Apple but EVERY frame is AI generated.|Had to re-upload because i said fuck it and did the video in 1080P to stop some of Youtubes terrible compression. So now the video is in 1080P even though the images themselves are in 480p, But the Youtube will most likely compress the video more so in the next few hours i will post a MEGA link to the uncompressed 1080P video and all images used.|2023-10-17T06:40:28Z|PT3M40S|3760.0|||||||
 AI|Sliced fruit|https://www.youtube.com/watch?v=hvJdXNh7Fag|||Bad Apple but it's Sliced Fruit  (AI Generated)|"!! Go watch the Original MMD and show support !! 
 Nicovideo:  http://www.nicovideo.jp/watch/sm13595028
 YT:  https://youtu.be/iV5A-VzKWvw
@@ -541,19 +547,19 @@ I DO NOT OWN ANY MUSIC IN
 THIS VIDEO IN ANY WAY, SHAPE,
 OR FORM!
 
-#stablediffusion #stablediffusionanimation #aivideo #aianimation #badapple #touhou"|2023-04-19T00:48:45Z|PT7M33S|1360|||||||
+#stablediffusion #stablediffusionanimation #aivideo #aianimation #badapple #touhou"|2023-04-19T00:48:45Z|PT7M33S|1360.0|||||||
 AI|Lyrics 2|https://www.youtube.com/watch?v=TQuemeYxsHQ|||Bad apple but every lyric is an AI generated image|"cover and video  ----------- https://www.youtube.com/watch?v=rQg2qngyIZM
 
 AI -------- https://www.craiyon.com/
 
-thanks for 1000 views!"|2022-08-01T16:05:13Z|PT3M39S|2107|||||||
+thanks for 1000 views!"|2022-08-01T16:05:13Z|PT3M39S|2107.0|||||||
 OS/Programming|Windows virus|https://www.youtube.com/watch?v=EZpZwunMzuE|||Bad Apple but it's a Windows virus|"Yes, this runs in realtime.
 
 Do you like to live dangerously? Running binaries from strangers is an adrenaline rush? Give it a go:
 https://mon.im/bad_apple.exe
 
 If you're more risk-averse, build it yourself!
-https://github.com/mon/bad_apple_virus"|2023-08-01T04:24:11Z|PT3M46S|677885|||||||
+https://github.com/mon/bad_apple_virus"|2023-08-01T04:24:11Z|PT3M46S|677885.0|||||||
 OS/Programming|Windows task manager|https://www.youtube.com/watch?v=sBeI30ccb6g|||Bad apple on windows 10 task manager.|"bad apple on task manager
 
 
@@ -569,21 +575,21 @@ the frames of the big apple video were extracted from kdenlive.
 Bad apple: https://www.nicovideo.jp/watch/sm8628149
 
 inspired by: https://www.youtube.com/watch?v=h39xbVrGYGQ 
-also: https://www.youtube.com/watch?v=RY5_gutA_Vw"|2020-07-11T16:04:31Z|PT3M40S|705382|||||||
+also: https://www.youtube.com/watch?v=RY5_gutA_Vw"|2020-07-11T16:04:31Z|PT3M40S|705382.0|||||||
 OS/Programming|Windows system tray|https://www.reddit.com/r/touhou/comments/s7y4et/bad_apple_on_system_tray/||||||||||||||
 OS/Programming|Windows 896 cores|If this is not the correct way to use a 896-Core Processor, I don't know what is.||||||||||||||
 OS/Programming|Windows desktop|https://www.youtube.com/watch?v=7CJB01sWA2o|||BAD APPLE on Windows Desktop|"Code: https://github.com/Vehicom0607/BadAppleDesktop
 This footage is sped up 5x but if you omit 4/5 frames you can get it run real-time(although a bit choppier)
 
 
-On Google Sheets: https://www.youtube.com/watch?v=rP8_pNeB6dM"|2021-08-25T04:40:29Z|PT3M40S|137|||||||
-OS/Programming|Windows CMD|https://www.youtube.com/watch?v=J5RvpwH76xw|||Bad Apple in Windows CMD|Source code: https://github.com/Kam1k4dze/Video2ASCII|2023-02-20T19:48:44Z|PT4M6S|468|||||||
+On Google Sheets: https://www.youtube.com/watch?v=rP8_pNeB6dM"|2021-08-25T04:40:29Z|PT3M40S|137.0|||||||
+OS/Programming|Windows CMD|https://www.youtube.com/watch?v=J5RvpwH76xw|||Bad Apple in Windows CMD|Source code: https://github.com/Kam1k4dze/Video2ASCII|2023-02-20T19:48:44Z|PT4M6S|468.0|||||||
 OS/Programming|Windows CMD 60 fps|https://www.youtube.com/watch?v=6KQdhYzb2tE|||Bad Apple on CMD but 60fps|"yeah boiiiii
-Source code (144fps ver): https://github.com/dodinhhoanganh/Bad-Apple"|2021-01-31T15:25:54Z|PT3M59S|883|||||||
+Source code (144fps ver): https://github.com/dodinhhoanganh/Bad-Apple"|2021-01-31T15:25:54Z|PT3M59S|883.0|||||||
 OS/Programming|VS Cod|https://www.youtube.com/watch?v=cmpg-qiPYa8|||Bad Apple!! but it's a VS Code Auto-Formatter|"Tabs or spaces? Please. I format my code as the frames of the Bad Apple!! PV. Note that this auto-formatter actually breaks the formatted code as when I implemented it to properly tokenise the code as a real formatter would do, the inconsistent line lengths and whitespaces kind of messed up the Bad Apple!! frames. Video sped up. Uses Visual Studio Code Extension API with TypeScript, Node.js, Python PIL.
 
 Check out my other stuff on GitHub https://github.com/kevinjycui
-Discord server: https://discord.gg/WEykWbjkR2"|2021-03-01T22:49:31Z|PT3M52S|587634|||||||
+Discord server: https://discord.gg/WEykWbjkR2"|2021-03-01T22:49:31Z|PT3M52S|587634.0|||||||
 OS/Programming|HTML/Javascript|https://www.youtube.com/watch?v=PNeAz6umPDQ|||Bad Apple but it's HTML @60fps|"I made this by inspiration from Youtube people rendering bad apple on different things, so i thought if HTML can hack NASA, Why not play Bad Apple 🤷‍♂️
 ---
 So the process needed time and patience + knowledge of HTML and Javascript.
@@ -596,7 +602,7 @@ So the process needed time and patience + knowledge of HTML and Javascript.
 - Loop each frame with javascript, display the div then delete frame from memory or browser would crash with out_of_memory error.
 - DOM elements take time to render and 87500 divs per frame is alot to process, so playback was super slow, 1 hour render.. I had to increase speed to 1500% to achieve 60fps and that's all...
 
-Thanks for watching!"|2021-05-10T14:43:01Z|PT3M46S|1020|||||||
+Thanks for watching!"|2021-05-10T14:43:01Z|PT3M46S|1020.0|||||||
 OS/Programming|PHP|https://www.youtube.com/watch?v=dPgBT_cfSrc|||Bad Apple - simple PHP version|"PHP version in single 2.5MB PHP file parsed on each request
 returned text/plain frame is based on current time, so every 1/15s next frame will be served
 starts at 0:30
@@ -607,18 +613,18 @@ video data is based on Abaduaber's version: https://youtu.be/IXOVUiyx1a8
 source: https://github.com/mblajek/BadApplePhp
 - also stream_socket_server version available
 
-used server: debian+apache+php-fpm on AMD E-350 PC in local network"|2021-01-28T00:43:37Z|PT4M9S|187|||||||
+used server: debian+apache+php-fpm on AMD E-350 PC in local network"|2021-01-28T00:43:37Z|PT4M9S|187.0|||||||
 OS/Programming|Pure CSS|https://www.youtube.com/watch?v=MQbjW2VfaHs|||Bad Apple!! played with pure CSS in high quality|"Uploading the full Bad Apple!! PV in about 139MB of pure CSS and HTML (without any JavaScript) as promised in the previous video. Animation quality slightly reduced to compress CSS file from 165MB and play all the way through on Chromium. Note we are referring to CSS as in Cascading Style Sheets and not Character Select Screen or Counter-Strike: Source. Uses Python PIL, BeautifulSoup, cssutils, OpenCV to generate HTML/CSS files.
 
 As described in ""The Art of Pure CSS"" (preamble): https://youtu.be/wUQbchYY80U
 
 Join the Discord: https://discord.gg/WEykWbjkR2
 Twitter: https://twitter.com/Junferno
-Check out my other stuff on GitHub: https://github.com/kevinjycui"|2021-07-07T23:19:17Z|PT3M52S|126247|||||||
+Check out my other stuff on GitHub: https://github.com/kevinjycui"|2021-07-07T23:19:17Z|PT3M52S|126247.0|||||||
 OS/Programming|Conway Life|https://www.youtube.com/watch?v=KLLYet7qHbU|||Bad Apple but Played in Conway's Game of Life|"Minecraft main channel: @Sloimay 
 
 One generation of the Game of Life is computed every frame, but at the same time, all white pixels of the corresponding frame in the Bad Apple music video are set as ""alive cells"" inside the GOL grid.
-This channel is officially shitpost approved :D"|2023-02-23T12:19:36Z|PT4M12S|270561|||||||
+This channel is officially shitpost approved :D"|2023-02-23T12:19:36Z|PT4M12S|270561.0|||||||
 OS/Programming|Neural Cell Automata|https://www.youtube.com/watch?v=PWJISyPCvb0|||Bad apple but it's 4 types of neural cellular automata|"https://magicquest.github.io/ca/webgl/bapple/
 
 (the hardest parts of this were the color and Conway's game of life + i also found out half way through that i was doing one step wrong when calculating the neural cellular automata)
@@ -646,21 +652,21 @@ Chapters:
 5:40 tolerance
 6:14 color channels & tolerance
 6:45 blend with original video
-7:20 can't change activation function"|2023-06-16T00:22:08Z|PT7M27S|830|||||||
+7:20 can't change activation function"|2023-06-16T00:22:08Z|PT7M27S|830.0|||||||
 OS/Programming|C++ template errors|https://www.youtube.com/watch?v=Ome1vIXt4xk|||Bad Apple!! in the biggest pain of C++|"Source code: https://gist.github.com/sppmacd/0a806c65ce634b2825c4016c88b73c73
-GitHub: https://github.com/sppmacd"|2022-11-17T20:13:50Z|PT4M43S|183095|||||||
+GitHub: https://github.com/sppmacd"|2022-11-17T20:13:50Z|PT4M43S|183095.0|||||||
 OS/Programming|Scratch|https://www.youtube.com/watch?v=9QJ2zD_077E|||Bad apple, But it's made of Scratch.|"made with Turbowarp.org
 python code : https://github.com/kiteco/python-youtube-code
-               Kite : https://www.youtube.com/watch?v=v_raWlX7tZY"|2023-02-20T14:10:48Z|PT3M41S|2760|||||||
+               Kite : https://www.youtube.com/watch?v=v_raWlX7tZY"|2023-02-20T14:10:48Z|PT3M41S|2760.0|||||||
 OS/Programming|Snap|https://cloud.snap.berkeley.edu/project?username=scratchthecatqwerty&projectname=Bad%20Apple%20on%20Snap%20WITH%20UNICODE||||||||||||||
 OS/Programming|Shadertoy|https://www.shadertoy.com/view/DstGDX||||||||||||||
 OS/Programming|Mouse cursors|https://www.youtube.com/watch?v=HCm1XcKEeF8|||Bad Apple but the cursor is the pixels|"It renders the Bad Apple video using an overlay window with mouse cursors acting as the pixels. I had to set my screen resolution to a 4:3 aspect ratio, the same aspect ratio as bad apple. Also for the first time I used a light theme for contrast with the black cursors. Source code: https://github.com/masterneko/cursor-video
 
-Original: https://www.youtube.com/watch?v=UkgK8eUdpAo"|2024-01-25T01:33:26Z|PT3M50S|45|||||||
+Original: https://www.youtube.com/watch?v=UkgK8eUdpAo"|2024-01-25T01:33:26Z|PT3M50S|45.0|||||||
 OS/Programming|Grub Bootloader|https://www.youtube.com/watch?v=zBhlu9lod6U|||Bad Apple !! Played on GRUB|"Ok, so the title is pretty straightforward, this is bad apple on ... GRUB.
 All the details about how, why and the code are available on github : https://github.com/noeamiot/Bad-Apple-on-GRUB
 
-Special thanks to tech support Stéphane"|2021-07-22T12:17:33Z|PT4M2S|2886|||||||
+Special thanks to tech support Stéphane"|2021-07-22T12:17:33Z|PT4M2S|2886.0|||||||
 OS/Programming|Bootable OS (Unity)|https://www.youtube.com/watch?v=pxlnv6RxzPY|||Bad Apple but it's a bootable OS|".-=[[ Expand for details ]]=-.
 
 This is based off of an Ubuntu install. I was originally gonna use something more lightweight like Tiny Core Linux, but am too lazy / stupid to figure that out. 69 likes for a part 2!
@@ -674,12 +680,12 @@ Yes, this works on real hardware, and yes it's up for download. http://l.fwfy.cl
 
 You might've seen other people try the Bad Apple Running On Everything challenge, some even doing it in Minecraft to try and replicate the works of Dream and Fundy, and their crazy coding / programming videos that are amazing. This is not that, this is Bad Apple as an OS, based on Linux / Ubuntu / Unix Operating System.
 
-DISCLAIMER: I do not own, or claim to own any or all of the song used in this video or the animation."|2021-02-18T05:54:51Z|PT3M46S|418|||||||
+DISCLAIMER: I do not own, or claim to own any or all of the song used in this video or the animation."|2021-02-18T05:54:51Z|PT3M46S|418.0|||||||
 OS/Programming|Python Turtle|https://www.youtube.com/watch?v=lYOKkoVHWTU|||Bad apple but drawn by python turtle|"Link to code: https://replit.com/@TheGameWARloXx/Bad-Apple-but-with-python-turtle-dots-updated#main.py
 
 Takes about 17 minutes to render due to the addition of a 0.35 second gap between frames to keep the framerate consistent. Both the quality, the number of FPS and not skipping every other frame can be easily increased but would take up way too much time to render.
 
-The videos are slightly out of sync but there wasn't much I could do about this due to my editing program being annoying."|2023-02-20T19:16:10Z|PT3M40S|6429|||||||
+The videos are slightly out of sync but there wasn't much I could do about this due to my editing program being annoying."|2023-02-20T19:16:10Z|PT3M40S|6429.0|||||||
 OS/Programming|Self-modifying Code Disassembler View|https://www.youtube.com/watch?v=Tvmj6hOny8w|||Self Modifying Program plays Bad Apple with its Control Flow Graph on a Disassembler|"Q: What's this? 
 A: It's a self modifying program that plays Bad Apple with it's control flow graph. This will surely throw any reverse engineer off. The disassembler used here is IDA.
 
@@ -687,21 +693,21 @@ Q: Why?
 A: Why not
 
 Q: 
-A: Also I wrote a writeup and published the code on this please look at it please: https://github.com/JuliaPoo/Bad-Apple-on-IDA"|2021-04-07T15:35:49Z|PT3M52S|1499|||https://github.com/JuliaPoo/Bad-Apple-on-IDA||||
+A: Also I wrote a writeup and published the code on this please look at it please: https://github.com/JuliaPoo/Bad-Apple-on-IDA"|2021-04-07T15:35:49Z|PT3M52S|1499.0|||https://github.com/JuliaPoo/Bad-Apple-on-IDA||||
 OS/Programming|ChatGPT Circle Packing|https://www.youtube.com/watch?v=bQLHW74ZJ9c|||Bad Apple but ChatGPT wrote the code|"https://github.com/dsagman/bad-apple
 
-I let ChatGPT do the heavy lifting: Please write me a python script that using circle packing on a b/w image file."|2024-02-10T18:55:56Z|PT1M8S|4|||||||
+I let ChatGPT do the heavy lifting: Please write me a python script that using circle packing on a b/w image file."|2024-02-10T18:55:56Z|PT1M8S|4.0|||||||
 Text|Python terminal|https://www.youtube.com/watch?v=AZfrXrk3ZHc|||Bad apple in Python|"Just some weekend project that I whipped up. 
 
 Most of the time was spent on trying to get the frame timing right, but it is still fucked LOL. Tried to do on the fly frame time adjustments but it is still highly dependent on the host machine. 
 
 Code: https://github.com/CalvinLoke/bad-apple
 
-The code is pretty shit but whatever, I whipped this up in like 24 hours so I can't complain rofl."|2021-03-20T15:03:17Z|PT4M15S|108793|||||||
+The code is pretty shit but whatever, I whipped this up in like 24 hours so I can't complain rofl."|2021-03-20T15:03:17Z|PT4M15S|108793.0|||||||
 Text|Ascii art|https://www.youtube.com/watch?v=6zs6S_I5gH8|||Bad Apple but in Windows Terminal ASCII art|"Working on CMDplay, a C# .NET command line tool using ffmpeg to play videos back in command line.
 Source code / Compiled windows binaries: https://github.com/mariiaan/CmdPlay
 Shell: Windows Terminal / PowerShell
-Song: Bad Apple from Touhou (東方)"|2021-01-28T19:26:40Z|PT3M57S|87921|||||||
+Song: Bad Apple from Touhou (東方)"|2021-01-28T19:26:40Z|PT3M57S|87921.0|||||||
 Text|Unicode|https://www.reddit.com/r/csharp/comments/vqqrus/i_was_disappointed_that_bad_apple_was_only/||||||||||||||
 Text|Unicode Apples|https://www.youtube.com/watch?v=NVRzVZBNr_4|||Bad Apple, but it's made  of Unicode apple characters|"This was most definitely a worthy use of my time.
 
@@ -709,37 +715,37 @@ The playback originally drifted slightly until it was a couple of seconds off by
 
 The terminal emulator I'm using is kitty, it's really neat and has got pretty good Unicode support. 
 
-#touhou #badapple #terminal #linux"|2021-06-14T17:59:25Z|PT3M56S|144|||||||
+#touhou #badapple #terminal #linux"|2021-06-14T17:59:25Z|PT3M56S|144.0|||||||
 Text|Korean Unicode|https://www.reddit.com/r/korea/comments/mqqjym/bad_applebut_its_made_from_korean_unicode_blocks/||||||||||||||
 Text|Braille|https://www.youtube.com/watch?v=JM-toIaVgek|||Bad Apple but its made of braille|"I was bored and as I looked through the Unicode website, I spotted the page for braille and thought it would be a nice use of my time to make a python script to turn a picture into a braille character. As a side effect, I now know a decent amount about handling and parsing Unicode in python. I'm rather a bit proud of the segmentToBraile function I made. One annoying thing is that the default look for the characters on windows has the braille space character (\u2800) is thinner than all other braille characters (\u2801 to \u28ff) so everything looks off. You remedy this by either replacing blank spaces with another braille character or by changing the font to something like Unifont. Either way, I promise I do things that are not bad apple from time to time. 
 
-Tea"|2021-08-02T16:39:29Z|PT3M45S|173|||||||
+Tea"|2021-08-02T16:39:29Z|PT3M45S|173.0|||||||
 Text|Custom Font|https://www.youtube.com/watch?v=GF2sn2DXjlA|||Bad Apple embedded into a font|"I embedded Bad Apple into a font using Harfbuzz' new wasm shaping engine.
 
 Base font: https://fontstorage.com/font/daniel-johnson/pfennig
 Helpful links:
 https://leifgehrmann.com/2019/04/28/creating-fonts-from-svg/
 https://github.com/Eiim/SmilApple
-https://github.com/harfbuzz/harfbuzz-wasm-examples"|2023-07-22T11:30:51Z|PT4M23S|9216|||||||
+https://github.com/harfbuzz/harfbuzz-wasm-examples"|2023-07-22T11:30:51Z|PT4M23S|9216.0|||||||
 Internet Protocol|Telnet|https://www.youtube.com/watch?v=DychgN2CnFQ|||Bad Apple but over Telnet|"telnet weeb.party 1337
 bash script at https://file.io/SugRm8wHyDXF
 
 shout outs to
 Joel Ibaceta for joelibaceta/video-to-ascii
-AWS for the free server"|2021-04-27T20:19:27Z|PT3M45S|637|||||||
-Internet Protocol|IPV6 Pings|https://www.youtube.com/watch?v=eYGSc4h6IuY|||bad apple but it's played on ipv6 place|bad apple but it's played on https://v6.sys42.net/ where you ping an IPv6 to place a pixel|2023-04-20T19:47:13Z|PT3M40S|594|||||||
+AWS for the free server"|2021-04-27T20:19:27Z|PT3M45S|637.0|||||||
+Internet Protocol|IPV6 Pings|https://www.youtube.com/watch?v=eYGSc4h6IuY|||bad apple but it's played on ipv6 place|bad apple but it's played on https://v6.sys42.net/ where you ping an IPv6 to place a pixel|2023-04-20T19:47:13Z|PT3M40S|594.0|||||||
 Internet Protocol|Cisco Packet Tracer|https://www.youtube.com/watch?v=OW7dnr0aOqs|||Bad Apple!! but in real time inside Cisco Packet Tracer (again)|"Updated Version that runs in real time
 Original : https://www.youtube.com/watch?v=FtutLA63Cp8
 GitHub : https://github.com/TheAypisamFpv/CESI_Bad_Apple
 
-ASCII animation generated using v4.5 https://github.com/CalvinLoke/bad-apple"|2024-01-30T08:00:20Z|PT3M40S|585|||||||
+ASCII animation generated using v4.5 https://github.com/CalvinLoke/bad-apple"|2024-01-30T08:00:20Z|PT3M40S|585.0|||||||
 Office Apps|Powerpoint|https://www.youtube.com/watch?v=CmDDIzU837k|||Bad Apple played on POWERPOINT!?|"Music: https://www.youtube.com/watch?v=FtutLA63Cp8
 Made about 130 powerpoint slides for this
 
 Twitter: https://twitter.com/cathay3520
 © Cathay3520
 
-#badapple #powerpoint"|2021-04-18T00:45:20Z|PT30S|54300|||||||
+#badapple #powerpoint"|2021-04-18T00:45:20Z|PT30S|54300.0|||||||
 Office Apps|Powerpoint|https://www.youtube.com/watch?v=lfl9SFOJDLI|||Bad Apple, but it's rendered in PowerPoint|"The framerate of the presentation video somewhere drop, so it's not 100% synced with music.
 
 
@@ -750,12 +756,12 @@ https://github.com/TheDreamFoxy/PowerVid
 
 Song, frames:
 
-https://www.youtube.com/watch?v=FtutLA63Cp8"|2021-04-16T11:11:31Z|PT3M56S|206|||||||
+https://www.youtube.com/watch?v=FtutLA63Cp8"|2021-04-16T11:11:31Z|PT3M56S|206.0|||||||
 Office Apps|Excel|https://www.youtube.com/watch?v=aKTGgZ32UuM|||Bad Apple but in Microsoft Excel|"I do not own the song in this video. This is for coding example.
-Full script at: https://github.com/LordierClaw/ExcelRedraw"|2021-08-10T08:57:18Z|PT3M48S|665|||||||
-Office Apps|Excel|https://www.youtube.com/watch?v=QZof9HHQ8Gw|||【東方】Bad Apple!!【Excel】||2019-07-19T13:16:09Z|PT3M53S|5744|||||||
+Full script at: https://github.com/LordierClaw/ExcelRedraw"|2021-08-10T08:57:18Z|PT3M48S|665.0|||||||
+Office Apps|Excel|https://www.youtube.com/watch?v=QZof9HHQ8Gw|||【東方】Bad Apple!!【Excel】||2019-07-19T13:16:09Z|PT3M53S|5744.0|||||||
 Office Apps|Google Slides|https://www.youtube.com/watch?v=aTW6WFb8N_8|||Bad Apple!!! On Google Slides|"im amazed that the audio didnt desync when doing this-
-https://docs.google.com/presentation/d/161lj5KNCxUbG1S201F_i5YEeUBbWoziHlzrSG_bfKLY/edit?usp=sharing"|2021-03-13T23:52:29Z|PT4M22S|768|||||||
+https://docs.google.com/presentation/d/161lj5KNCxUbG1S201F_i5YEeUBbWoziHlzrSG_bfKLY/edit?usp=sharing"|2021-03-13T23:52:29Z|PT4M22S|768.0|||||||
 Office Apps|Google Docs Comments|https://www.youtube.com/watch?v=zNaSzQJzuG0|||Bad Apple!! but it's Google Docs comments|"The iconic Bad Apple!! video played using only comments in Google Docs.
 
 Original video:
@@ -771,17 +777,17 @@ https://www.cemetech.net/forum/viewtopic.php?p=293417
 Here's the GitHub repo for the converter I wrote:
 https://github.com/commandblockguy/commentimation
 
-#BadApple"|2021-05-20T05:21:10Z|PT3M40S|2265|||||||
+#BadApple"|2021-05-20T05:21:10Z|PT3M40S|2265.0|||||||
 Office Apps|Google Sheets|https://www.youtube.com/watch?v=rP8_pNeB6dM|||BAD APPLE in GOOGLE SHEETS (High Quality)|"Bad apple played on Google Sheets.
 Code here: https://github.com/Vehicom0607/BadAppleSheets
-This has been done before, but not as this quality. This only took 3-4 hours to render vs 10+ for the rick roll."|2021-05-14T13:17:21Z|PT3M40S|792|||||||
-Office Apps|LibreOffice Calc|https://www.youtube.com/watch?v=UvGKCvX44So|||"""Touhou - Bad Apple PV"" in LibreOffice Calc"||2021-04-17T00:38:39Z|PT3M42S|65|||||||
+This has been done before, but not as this quality. This only took 3-4 hours to render vs 10+ for the rick roll."|2021-05-14T13:17:21Z|PT3M40S|792.0|||||||
+Office Apps|LibreOffice Calc|https://www.youtube.com/watch?v=UvGKCvX44So|||"""Touhou - Bad Apple PV"" in LibreOffice Calc"||2021-04-17T00:38:39Z|PT3M42S|65.0|||||||
 Office Apps|LaTex|https://www.youtube.com/watch?v=RYrw_swOD-U|||Bad Apple!! but it's LaTeX presentation|"Bad apple but converted to Tikz code from SVG from bmp from MP4 presented as a PDF presentation cause why not.
 
 Link to github with code:
 github.com/Esgeriath/BadLaTeX
 
-My fingers hurt from holding down key to skip slides."|2023-12-22T22:17:05Z|PT3M43S|64|||||||
+My fingers hurt from holding down key to skip slides."|2023-12-22T22:17:05Z|PT3M43S|64.0|||||||
 Office Apps|Typst (LaTex Variant)|https://www.youtube.com/watch?v=4m59Yc7VYlc|||BAD APPLE!! in Typst a contender to LaTeX for pdf creation|"This in real time video illustrates the power of Typst's incremental compiler.
 https://typst.app/
 
@@ -796,7 +802,7 @@ Finally Typst is free and open source.
 You can try Typst on your local machine or through the web interface at :
 https://typst.app/
 
-PS : The audio may be a bit miss matched because I wanted to avoid post processing to keep real time performance."|2023-09-30T11:57:40Z|PT3M57S|271|||||||
+PS : The audio may be a bit miss matched because I wanted to avoid post processing to keep real time performance."|2023-09-30T11:57:40Z|PT3M57S|271.0|||||||
 Office Apps|MS Paint|https://www.youtube.com/watch?v=itbBubDqm70|||Bad Apple!! played on Microsoft Paint (Flash Warning)|"Sorry if it's a bit flashy, hopefully it's not too tiring on the eyes. It's because each frame is drawn by mouse (the more practical and obvious way to do this would be to just paste the images into Paint, but that's no fun). Video sped up. Uses PyAutoGUI, OpenCV Python.
 
 Oh and I almost forgot to ask. How is Astolfo?
@@ -805,7 +811,7 @@ Discord server: https://discord.gg/WEykWbjkR2
 Check out my other stuff on GitHub: https://github.com/kevinjycui
 
 Music used:
-Le Sharkoïste - Bad Apple - Cover with Windows XP and 7 sounds (2021 version) https://www.youtube.com/watch?v=rKGEkbLTKbY"|2021-04-08T13:00:31Z|PT3M40S|797234|||||||
+Le Sharkoïste - Bad Apple - Cover with Windows XP and 7 sounds (2021 version) https://www.youtube.com/watch?v=rKGEkbLTKbY"|2021-04-08T13:00:31Z|PT3M40S|797234.0|||||||
 Office Apps|MS Paint|https://www.youtube.com/watch?v=PSMOTq7TUBA|||Bad apple but in Microsoft Paint (30 FPS Smooth Kinda) [Flash Warning]|"Sorry for those random lines, its some sort of bug, I wish to fix it but the solution to it is to re-render the whole video which took 13h 41m 30s
 
 The whole process took 3 days.
@@ -824,10 +830,10 @@ I'll share the code in the comments after fixing some issues and adding more fea
 
 GitHub: https://github.com/aidangamin/Auto-MSPaint
 
-#badapple #touhou #microsoftpaint #python #programming"|2022-11-02T03:08:32Z|PT3M40S|116596|||||||
+#badapple #touhou #microsoftpaint #python #programming"|2022-11-02T03:08:32Z|PT3M40S|116596.0|||||||
 Office Apps|MS Paint|https://www.youtube.com/watch?v=nm5T9c9b5n4|||Touhou Bad Apple!! on MSpaint by me|"Testing the layer mask of AE. And this is the result.
-The original video ""Touhou Bad Apple"" does not belong to me."|2016-12-21T08:06:27Z|PT3M39S|274|||||||
-Office Apps|MS Word 6.0 Max|https://www.youtube.com/watch?v=x6aGOUvfKtU|||BadApple PV ASCII Under MS Word 6.0 for Mac|Another port of my WordBasic auto page importer and flipper. This time the flip speed is unstable, so I can't ensure the picture is always in sync with the audio (added at video editing). I used Basilisk II emulater to run this because I no longer possess a Mac that runs 68k Mac software fast.|2012-12-03T15:39:36Z|PT4M37S|1961|||||||
+The original video ""Touhou Bad Apple"" does not belong to me."|2016-12-21T08:06:27Z|PT3M39S|274.0|||||||
+Office Apps|MS Word 6.0 Max|https://www.youtube.com/watch?v=x6aGOUvfKtU|||BadApple PV ASCII Under MS Word 6.0 for Mac|Another port of my WordBasic auto page importer and flipper. This time the flip speed is unstable, so I can't ensure the picture is always in sync with the audio (added at video editing). I used Basilisk II emulater to run this because I no longer possess a Mac that runs 68k Mac software fast.|2012-12-03T15:39:36Z|PT4M37S|1961.0|||||||
 Map App|Holy Roman Empire|https://www.youtube.com/watch?v=mpGjNrUt8cM|||Bad Apple!! played on Middle Europe [EU4, Voltaire's Nightmare]|"The infamous Bad Apple!! MV played mostly on the provinces of the Holy Roman Empire;
 
 This can be done by editing a savefile to change province ownership to a nation with the desired colour. The eu4 timeline can then replay the province histories.
@@ -837,15 +843,15 @@ Footage sped up and edited in Blender (oof).
 reddit post: https://www.reddit.com/r/eu4/comments/o920w7/project_rendering_videos_using_eu4s_timeline/
 github: https://github.com/santomon/eu4-renderer
 
-Thanks for watching!"|2021-06-27T17:50:44Z|PT3M39S|213953|||||||
+Thanks for watching!"|2021-06-27T17:50:44Z|PT3M39S|213953.0|||||||
 Map App|Google Maps|https://www.youtube.com/watch?v=r-axdVfM0c0|||Bad Apple!! played on Google Maps|"My contribution to the Touhou community. Uses Google Maps API, Node.js, React, Python PIL. Haven't made the code public yet since I wrote it at midnight between midterms so it's pretty scuffed (but hey it works). Video is sped up, but there is still some lag in some parts (it's surprisingly difficult to get Google Maps to update render at a consistent FPS).
 
 Check out my other stuff on GitHub https://github.com/kevinjycui
-Discord server: https://discord.gg/WEykWbjkR2"|2021-02-19T21:15:40Z|PT3M43S|1377557|||||||
+Discord server: https://discord.gg/WEykWbjkR2"|2021-02-19T21:15:40Z|PT3M43S|1377557.0|||||||
 Other App|Impulse tracker|https://www.youtube.com/watch?v=SDvk3aL78fI&t=0s||||||||||||||
 Other App|Unity Shader|https://www.youtube.com/watch?v=3l1aTq_D2-4|||Bad Apple but it's a Unity Dot Matrix Display Shader|"Decided to create a Shader that can present greyscale images and videos as a dot matrix display as you would see on a classic Pinball machine.
 The resolution was reduces to 192x64, to match the dot matrix used on a few sega pinballs, it was relatively big compared to most DMD's.
-Doesn't mean the video of bad apple didn't get compressed to absolute heck."|2024-01-11T23:54:28Z|PT3M40S|130|||||||
+Doesn't mean the video of bad apple didn't get compressed to absolute heck."|2024-01-11T23:54:28Z|PT3M40S|130.0|||||||
 Other App|Discord|https://www.youtube.com/watch?v=PLP9c0Z4Q3Y|||Bad apple but its discord messages|"I made a discord bot that plays bad apple...
 
 Discord has a limit on how quick msgs can be sent so I had to speed up my recording, hope this still counts!
@@ -856,7 +862,7 @@ Original video: https://www.youtube.com/watch?v=UkgK8eUdpAo
 
 Other random bad apple stuff: https://www.youtube.com/playlist?list=PLVrFY7mKhThFgD8P4_ioFsBMWsQEMYoSp
 
-Bot code:  https://github.com/NPCat/bad-apple-bot"|2021-01-18T12:58:01Z|PT3M54S|2992236|||||||
+Bot code:  https://github.com/NPCat/bad-apple-bot"|2021-01-18T12:58:01Z|PT3M54S|2992236.0|||||||
 Other App|MIDI film tracker 7.6 million notes|https://www.youtube.com/watch?v=mqdM8VnaBYM|||"[Black MIDI Animation] BAD APPLE!! PV | MIDI Film Projector | Piano From Above (7.6 Million Notes)"|"♫ Noone thought this was going to be possible but it was! It basically works the same as an analog film projector. The individual frames of the animation were converted into MIDI and tucked really close to eachother. When you play it and stretch it to the right note-span you should be able to see the video play.
 
 It was created by ICEWiiMaker (ACJellier-SpringSnow), if I'm right, however she never got to actually make it work. It took some Cheat Engine and video editing to get this to work out. Was lots of work.
@@ -890,7 +896,7 @@ Soundfont(s) used:
 ------------------------------------------------------
 © Re-use of any of the Audio-visual material in this video is prohibited without permission. Do not use clips of my videos or audio outside the realms of Fair Use without prior permission. Breaking this rule may result in your video being taken down. If by chance you are the copyright holder of any of the material in this video and aren't content with the way it was used, you can contact me by e-mail and I will discuss what I can do for you. 
 ------------------------------------------------------
-Piano~"|2018-03-23T12:17:44Z|PT4M1S|898298|||||||
+Piano~"|2018-03-23T12:17:44Z|PT4M1S|898298.0|||||||
 Other App|PowderToy||https://powdertoy.co.uk/Browse/View.html?ID=2308246|Code||||||||||||
 Other App|PowderToy 2||https://powdertoy.co.uk/Browse/View.html?ID=2892156|Code||||||||||||
 Game|CSGO|https://www.youtube.com/watch?v=J1AraXmlYqM|||Bad Apple!! but it's CSGO bullet holes|"I used OpenCV's Canny Edge Detection to obtain the coordinates of the edges of each frame, then used pywin32 to move the crosshair to each coordinate. 
@@ -901,7 +907,7 @@ Maybe I'll do a video on the process if anyone wants to try it out as well.
 
 I'll clean up the code and release the GitHub repo soon for anyone interested!
 
-Bad Apple!! - https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-01-22T04:58:35Z|PT3M39S|2062906|||||||
+Bad Apple!! - https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-01-22T04:58:35Z|PT3M39S|2062906.0|||||||
 Game|Terraria|https://www.youtube.com/watch?v=NUh4tqlkyWI|||Terraria: Bad Apple!! (Triumph of engineering)|"The most ambitious build that I've build using “Faulty Logic”, as I used to call it.
 This is equivalent to hoiks or hoiktronics, that became possible in 1.3.1 patch, but possibilities still stay mostly unexplored.
 Unlike regular logic gates, faulty logic gates can be joined in more complex circuits and compute a lot faster.
@@ -909,7 +915,7 @@ Unlike regular logic gates, faulty logic gates can be joined in more complex cir
 Original music video you can find here — http://www.nicovideo.jp/watch/sm8628149
 Or here, on youtube — https://www.youtube.com/watch?v=G3C-VevI36s
 
-For details, you may read T-Mec forum post — https://forums.terraria.org/index.php?threads/showcase-bad-apple.76348/"|2016-11-16T16:30:04Z|PT4M34S|683916|||||||
+For details, you may read T-Mec forum post — https://forums.terraria.org/index.php?threads/showcase-bad-apple.76348/"|2016-11-16T16:30:04Z|PT4M34S|683916.0|||||||
 Game|Chess|https://www.youtube.com/watch?v=7_0IQfzoEPo|||Bad Apple but Played in Chess|"Main Minecraft channel: @Sloimay 
 
 I resized the video to a 32*24, took each pixel and converted them into chess pieces. The blacker, the bigger the black piece, the whiter, the bigger the white piece. The grayer the smaller the piece chosen is, with the smallest being the pawn!
@@ -921,25 +927,25 @@ Cool moments to check out:
 - 3:18 - More petals and these look even better than the ones at 1:18 imo!
 - 3:55 - ;)
 
-Thanks for watching!"|2023-03-01T08:17:44Z|PT4M2S|629336|||||||
+Thanks for watching!"|2023-03-01T08:17:44Z|PT4M2S|629336.0|||||||
 Game|Minesweeper|https://www.youtube.com/watch?v=jGuznuVWM-0|||Bad Apple but it's minesweeper|"Created in blender
 
 based off of this video
-https://www.youtube.com/watch?v=L1MenIV3uBE"|2021-04-09T05:16:47Z|PT3M40S|451228|||||||
+https://www.youtube.com/watch?v=L1MenIV3uBE"|2021-04-09T05:16:47Z|PT3M40S|451228.0|||||||
 Game|Pokemon Cards|https://www.youtube.com/watch?v=nhLwbs2fvEY|||Bad Apple!! played on Pokemon Cards|"Every frame is generated by converting each pokemon card into 4 pixels, 2 in each dimension. I convert the frame into a much smaller image, and then i compare the 2 of them by using the pythagorean theorem (color is a vector, after all) and I match 4 pixels on the bad apple image to a card. Afterwards, i added all of the cards together and saved them. Each frame takes about 20 seconds to render with the optimizations i made, and with multithreading my computer chewed through them all in around 2.5 hours. Github is here: https://github.com/Spheroman/BadApplePkMn
 
 i then just ran it as a stop motion over https://pokegear.app/ made by Jake Gearhart as a background.
 
-the song is a midi file played using the gbfont soundfont (https://musical-artifacts.com/artifacts/8). I'll find the midi eventually, i downloaded it ages ago and never remembered where it came from."|2022-10-29T16:00:25Z|PT4M20S|7901|||||||
+the song is a midi file played using the gbfont soundfont (https://musical-artifacts.com/artifacts/8). I'll find the midi eventually, i downloaded it ages ago and never remembered where it came from."|2022-10-29T16:00:25Z|PT4M20S|7901.0|||||||
 Game|Factorio|https://www.youtube.com/watch?v=0e-gmMXs1Wo|||Factorio: Bad Apple!! on 24x16 Lamp Array (Real-time Recording)|"Game Version: 0.15, modded
 Mod: CombinatorBatchAssign (Self-made mod to assign values of data of the video to constant combinators)
-(source code: https://github.com/LuiCat/CombinatorBatchAssign)"|2018-02-18T17:07:48Z|PT3M39S|6891|||||||
+(source code: https://github.com/LuiCat/CombinatorBatchAssign)"|2018-02-18T17:07:48Z|PT3M39S|6891.0|||||||
 Game|Turing Complete|https://www.youtube.com/watch?v=dNauRL-tXhQ|||Bad Apple in Turing Complete|"Bad Apple :
 https://www.youtube.com/watch?v=UkgK8eUdpAo
 
 I use a file from this repo :
 https://github.com/kevinjycui/bad-apple
-The file is in 'input.txt"" from the ""april-fools"" folder."|2022-07-09T17:56:32Z|PT4M37S|1372|||||||
+The file is in 'input.txt"" from the ""april-fools"" folder."|2022-07-09T17:56:32Z|PT4M37S|1372.0|||||||
 Game|Kerbal space|https://www.youtube.com/watch?v=tL_VkTkEUZ4|||Bad Apple played in Kerbal Space Program|"this took 9 hours to render and a little less time to code.
 any attempt at launching this results in spaghetti. https://twitter.com/djskiskyskoski/status/1628285914827960320
 Made in ksp 1.5.1 using krpc version 0.4.8
@@ -947,7 +953,7 @@ all code hosted on github: https://github.com/anickl/kerbal-Bad-Apple
 
 https://twitter.com/djskiskyskoski
 
-#ksp #kerbalspaceprogram #badapple"|2023-02-21T01:26:38Z|PT3M40S|98544|||||||
+#ksp #kerbalspaceprogram #badapple"|2023-02-21T01:26:38Z|PT3M40S|98544.0|||||||
 Game|World of Warships|https://www.youtube.com/watch?v=C32pcv_dAeA|||Bad Apple but it's World of Warships|"Source code: https://github.com/padtrack/wows-badapple
 
 Credits:
@@ -957,14 +963,14 @@ Check him out here: https://www.youtube.com/@Shiromania
 Thank you TTaro for the helper mod!
 Check him out here: https://twitch.tv/ttaro_
 
-Thank you to Volrath for the hardware!"|2023-01-04T04:41:44Z|PT3M58S|3173|||||||
-Game|Tetris|https://www.youtube.com/watch?v=xcxrOi80Hwo|||Bad Apple!! but played in a Tetris engine|I don't know if this is impressive or not|2022-01-10T22:41:04Z|PT3M45S|9962|||||||
+Thank you to Volrath for the hardware!"|2023-01-04T04:41:44Z|PT3M58S|3173.0|||||||
+Game|Tetris|https://www.youtube.com/watch?v=xcxrOi80Hwo|||Bad Apple!! but played in a Tetris engine|I don't know if this is impressive or not|2022-01-10T22:41:04Z|PT3M45S|9962.0|||||||
 Game|Dwarf Fortress|https://www.youtube.com/watch?v=nT7I3ZbMBWc|||xTATTEREDx Apple (Bad Apple in Dwarf Fortress)|"Bad Apple!! remade in Dwarf Fortress using DFHack in Real Time
 Bad Apple!!: https://youtu.be/FtutLA63Cp8
 
 I guess this is also my 100 sub special
 Many, many thanks to Fleeting Frames on the Dwarf Fortress Discord!
-Source code: https://pastebin.com/5FZgxZ8K"|2021-07-31T23:10:32Z|PT3M47S|1382|||||||
+Source code: https://pastebin.com/5FZgxZ8K"|2021-07-31T23:10:32Z|PT3M47S|1382.0|||||||
 Game|Baba is You|https://www.youtube.com/watch?v=NyW04KBOPMk|||Baba Is Bad And Apple (Made with 6500+ Baba Is You screenshots)|"I wrote a python script that when paired with a certain level configuration, allows for the generation of any black and white 33x18 image you want. What better use than to recreate Bad Apple?
 
 
@@ -979,7 +985,7 @@ This took 3 1/2 days to render on my laptop. Originally I didn't think I would g
 
 
 The python script in the video isn't what I actually used, that video segment is an old version from when I mocked it up in blender. It doesn't have any screenshotting or multiple frame rendering features. I'll post the code that I used below, but be warned that I really don't know python and it's very messy and hacky
-https://pastebin.com/u1W2J7PG"|2021-02-15T05:20:44Z|PT4M38S|2021|||||||
+https://pastebin.com/u1W2J7PG"|2021-02-15T05:20:44Z|PT4M38S|2021.0|||||||
 Game Console/Virtual Console|PICO 8 highly compressed|https://www.lexaloffle.com/bbs/?pid=40010||||||||||||||
 Game Console/Virtual Console|PICO 8|https://www.lexaloffle.com/bbs/?tid=3263||||||||||||||
 Game Console/Virtual Console|TIC-80 one cartridge|https://tic80.com/play?cart=419||||||||||||||
@@ -1013,44 +1019,44 @@ Here is a link where you can see some progress about the demo development :
 http://www.sega-16.com/forum/showthread.php?19027-Bad-Apple-demo-thread
 
 As i don't own a Mega Everdrive i used a hacked version of Gens emulator to record this video but it plays almost identically on real hardware (audio timing is perfect on real hardware while is a bit ahead in Gens).
-Sorry for the choppy video, i wasn't able to record it at a stable 30 images per second rate..."|2012-11-29T01:07:58Z|PT3M46S|117043|||||||
+Sorry for the choppy video, i wasn't able to record it at a stable 30 images per second rate..."|2012-11-29T01:07:58Z|PT3M46S|117043.0|||||||
 Game Console/Virtual Console|Gameboy|https://www.youtube.com/watch?v=gy3NCr4rX-Y|||【Touhou】Bad Apple!! Gameboy 8-bit ver.【Shadow Art】【東方】|"Bad Apple!! Game Boy 8bit ver 【東方】
 Uploaded from Nico Nico Douga:
 http://www.nicovideo.jp/watch/sm8954478
 
 
-Alt tags: Touhou Bad Apple!! Shadow Art Animation 8bit 東方 Chiptune Lotus Land Story Stage 3 Theme Elly nomico"|2009-11-29T13:46:25Z|PT3M50S|843317|||||||
+Alt tags: Touhou Bad Apple!! Shadow Art Animation 8bit 東方 Chiptune Lotus Land Story Stage 3 Theme Elly nomico"|2009-11-29T13:46:25Z|PT3M50S|843317.0|||||||
 Game Console/Virtual Console|Atari 2600|https://www.youtube.com/watch?v=Ko9ZA50X71s|||Bad Apple - Atari 2600|"This is the Bad Apple video (https://www.youtube.com/watch?v=VzEUeWnV73U) played back on an emulated Atari 2600.
 
 The ROM can be downloaded here: http://atariage.com/forums/topic/226949-bad-apple-full-motion-video-on-the-2600/?p=3119932
 
-So far I have only found this to work on Stella, but to get it to work, you must right click on the file and set launch options to have it use a 3E cartridge, or it will not work. If you want to try this on real hardware, your flash cart must support 3E bankswitching with 480K ROM and 32K RAM."|2014-11-25T02:01:09Z|PT3M42S|343283|||||||
+So far I have only found this to work on Stella, but to get it to work, you must right click on the file and set launch options to have it use a 3E cartridge, or it will not work. If you want to try this on real hardware, your flash cart must support 3E bankswitching with 480K ROM and 32K RAM."|2014-11-25T02:01:09Z|PT3M42S|343283.0|||||||
 Game Console/Virtual Console|NES|https://www.youtube.com/watch?v=qRdGhHEoj3o&t=0s||||||||||||||
-Game Console/Virtual Console|Vectrex|https://www.youtube.com/watch?v=_aFXvoTnsBU|||Bad Apple - Vectrex version|Bad Apple (the Touhou shadowplay clip) digitized, vectorized, compressed, linearized, resampled, rescaled and playing on a cartridge of my own design. Article on how I did it coming up on Spritesmods.com|2015-04-09T09:54:06Z|PT4M15S|90098|||||||
-Game Console/Virtual Console|Vectrex|https://www.youtube.com/watch?v=ClSVWEMKlbE|||Vectrex Bad Apples|What’s better than one “Sprite_tm Extreme Vectrex Multicart” playing Bad Apple? Two of them!|2019-11-26T06:50:48Z|PT4M8S|2408|||||||
+Game Console/Virtual Console|Vectrex|https://www.youtube.com/watch?v=_aFXvoTnsBU|||Bad Apple - Vectrex version|Bad Apple (the Touhou shadowplay clip) digitized, vectorized, compressed, linearized, resampled, rescaled and playing on a cartridge of my own design. Article on how I did it coming up on Spritesmods.com|2015-04-09T09:54:06Z|PT4M15S|90098.0|||||||
+Game Console/Virtual Console|Vectrex|https://www.youtube.com/watch?v=ClSVWEMKlbE|||Vectrex Bad Apples|What’s better than one “Sprite_tm Extreme Vectrex Multicart” playing Bad Apple? Two of them!|2019-11-26T06:50:48Z|PT4M8S|2408.0|||||||
 Calculator|Ti-83|https://www.youtube.com/watch?v=4kdtiOyJgtc|||Bad Apple TI-83 Plus Silver Edition|"Original (at least I think): https://m.youtube.com/watch?v=6pAeWf3NPNU
-I did not make this software, I downloaded it from a github page and installed it on my calculator."|2021-02-25T06:08:03Z|PT3M53S|36788|||||||
-Calculator|Casio fx-87DEX|https://www.youtube.com/watch?v=JpEpdMuBEnA|||Casio fx-87DEX Bad Apple||2021-06-04T20:03:44Z|PT3M42S|19699|||||||
+I did not make this software, I downloaded it from a github page and installed it on my calculator."|2021-02-25T06:08:03Z|PT3M53S|36788.0|||||||
+Calculator|Casio fx-87DEX|https://www.youtube.com/watch?v=JpEpdMuBEnA|||Casio fx-87DEX Bad Apple||2021-06-04T20:03:44Z|PT3M42S|19699.0|||||||
 Calculator|Casio fx-9860GII|https://www.youtube.com/watch?v=2s1tFAI96Zo|||Bad Apple on CASIO fx-9860GII|"This is a demonstration of animation on CASIO fx-9860GII graphing calculator.
 Original video: http://www.nicovideo.jp/watch/sm8628149
 
 Video: 96 * 64, 30 fps (Huffman-coding-based compression)
 Audio: PCM, 4 bits, 7200Hz (output via serial port, LPF and cheap AMP)
 
-Source code: https://github.com/ac100v/bad_apple_fx-9860gii"|2015-07-05T11:05:34Z|PT3M58S|34059|||||||
+Source code: https://github.com/ac100v/bad_apple_fx-9860gii"|2015-07-05T11:05:34Z|PT3M58S|34059.0|||||||
 Single Board Computer/Micro Controller|Microcontroller|https://www.youtube.com/watch?v=7ZWeEIJo95U|||Bad Apple but it's played on a Microcontroller|"Runs completely on an ESP8266 microcontroller.
 The video has been scaled down to 85x64 to fit on the screen.
 The frame rate had to be reduced to 4.5 FPS to have any chance to actually fit on the 1 MB of program memory. (more than 98% of it were used)
 
 Source Code:
-https://github.com/KonradStuewe/BadApple-ESP8266"|2021-02-10T19:27:34Z|PT3M43S|352|||||||
+https://github.com/KonradStuewe/BadApple-ESP8266"|2021-02-10T19:27:34Z|PT3M43S|352.0|||||||
 Single Board Computer/Micro Controller|RISC V|https://www.youtube.com/watch?v=dIqIh1y1fXA|||Bad Apple, but it's played on a RISC-V ClockworkPi DevTerm|"Check out Ethical AI: https://ethical-ai.eu/
 Check out my website: https://topfi.eu/
 -
-It is the dream of every nerd to one day run Bad Apple on a unique device before anyone else."|2024-01-25T21:28:35Z|PT3M39S|132|||||||
+It is the dream of every nerd to one day run Bad Apple on a unique device before anyone else."|2024-01-25T21:28:35Z|PT3M39S|132.0|||||||
 Single Board Computer/Micro Controller|ESP32|https://www.youtube.com/watch?v=ItfAB2nQskM|||ESP32 BadApple|"Bad Apple!! on ESP32 with SSD1306 OLED.
 
-Source code: https://github.com/hackffm/ESP32_BadApple"|2018-02-18T17:11:56Z|PT59S|1760|||||||
+Source code: https://github.com/hackffm/ESP32_BadApple"|2018-02-18T17:11:56Z|PT59S|1760.0|||||||
 Single Board Computer/Micro Controller|32K EEPROM no CPU|https://www.youtube.com/watch?v=TkhVqe8Z2lY|||Bad Apple on 32K EEPROM (No CPU)|"Full details:
 https://excess.org/bad-apple/
 
@@ -1067,7 +1073,7 @@ Featuring:
 Bad Apple on Everything playlist: 
 https://www.youtube.com/playlist?list=PLajlU5EKJVdonUGTEc7B-0YqElDlz9Sf9
 
-#ElectronicsCreators"|2022-02-18T13:27:09Z|PT3M45S|12227|||||||
+#ElectronicsCreators"|2022-02-18T13:27:09Z|PT3M45S|12227.0|||||||
 Single Board Computer/Micro Controller|Raspberry Pi 64K version|https://www.youtube.com/watch?v=ZuBJVZWrRuk|||Bad Python!! (Bad Apple!! in a 64-kilobyte Raspberry Pi program)|"Bad Python!! - a 64-kilobyte Raspberry Pi intro by stage7/Genshiken
 
 This intro recreates the famous ""Bad Apple!!"" video and music in a 64-kilobyte program written in Python on a Raspberry Pi 2 Model B. 
@@ -1082,7 +1088,7 @@ Original PV by あにら.
 ""Touhou"" and its related characters are property of ZUN/Team Shanghai Alice and are used under ZUN's terms of use.
 No copyright infringement intended.
 
-Download the program here: http://demoscene.stg7.net/intros/st7-bp.zip"|2016-07-24T21:22:44Z|PT5M39S|66865|||||||
+Download the program here: http://demoscene.stg7.net/intros/st7-bp.zip"|2016-07-24T21:22:44Z|PT5M39S|66865.0|||||||
 Single Board Computer/Micro Controller|Homebrew 16-bit processor|https://www.youtube.com/watch?v=koOlisDalFU|||Bad Apple!! But On My Own 16-bit CPU|"I ported the Bad Apple animation and music to the Astro-8, my custom CPU architecture. This shows off some of the upgrades like the sound card, expanded memory, and resolution increase.
 
 Thank you to everyone who has brought a lot of attention to my latest videos, it really is appreciated. Due to school, I will have a slowed upload schedule for a while, but hopefully, I'll make up for it in quality. I know a lot of you are excited for the build of the Astro-8 system, but right now that project is far in the future and I don't have a clue when I'll be done with it, since it is a long process and I have barely begun.
@@ -1117,7 +1123,7 @@ This video is not sponsored.
 
 #programming
 #coding 
-#retro"|2022-10-31T21:44:29Z|PT4M3S|41510|||||||
+#retro"|2022-10-31T21:44:29Z|PT4M3S|41510.0|||||||
 Single Board Computer/Micro Controller|Arduino|https://www.youtube.com/watch?v=q6cqa2EW5wU|||Bad Apple! but it's two AVR chips, an Arduino and a PAL CRT|"Checkout the sister video at https://youtu.be/3_bmUKkK2mo which showcases a color version of the ordered dithering, in HSL space.
 
 The output is a 16 color RGBI 128x96 image, quantized with ordered dithering. RGBI has 4 grays so this is a very good video for testing grayscale dithering. 
@@ -1128,16 +1134,16 @@ I wrote a program to grab the screen, scale it down, and quantize it to 16 color
 
 Prequel to these videos: https://youtu.be/S6NdzMqID2s (using a bit older pixel pusher code that pushes pixels out at around 10-15 fps and Floyd-Steinberg dithering)
 
-Based on this video: https://www.youtube.com/watch?v=FtutLA63Cp8"|2021-05-04T15:33:45Z|PT4M4S|234|||||||
+Based on this video: https://www.youtube.com/watch?v=FtutLA63Cp8"|2021-05-04T15:33:45Z|PT4M4S|234.0|||||||
 Single Board Computer/Micro Controller|ATmega328P|https://www.youtube.com/watch?v=db0ZuH1yo3I|||Playing Bad Apple on OLED display with ATmega328P using AVR Assembly|"This video covers how to use my AVR assembly project to play any video on the OLED display. As an example, I have used ""Bad Apple"".
 
 Source code can be found at: https://github.com/UtkarshVerma/atmega328p-oled-asm
 
 Obviously, I don't have any rights to the song ""Bad Apple"" and here's the link to the original video.
-https://www.youtube.com/watch?v=d-eAoSNUy1E"|2022-02-12T07:55:13Z|PT2M9S|324|||||||
-Retro computer|8088 Compaq|https://www.youtube.com/watch?v=09z9YHxc0x4|||"""Bad Apple"" from 8088 Domination, Compaq Portable"|"""Bad Apple"" sequence on a Compaq Portable, stock CGA, NEC V20, Aztech Sound Galaxy NX Pro 16 (SB Pro2 clone) and compact flash hard drive running XT-IDE."|2015-05-10T04:46:12Z|PT4M12S|69950|||||||
+https://www.youtube.com/watch?v=d-eAoSNUy1E"|2022-02-12T07:55:13Z|PT2M9S|324.0|||||||
+Retro computer|8088 Compaq|https://www.youtube.com/watch?v=09z9YHxc0x4|||"""Bad Apple"" from 8088 Domination, Compaq Portable"|"""Bad Apple"" sequence on a Compaq Portable, stock CGA, NEC V20, Aztech Sound Galaxy NX Pro 16 (SB Pro2 clone) and compact flash hard drive running XT-IDE."|2015-05-10T04:46:12Z|PT4M12S|69950.0|||||||
 Retro computer|IBM PCs|https://www.youtube.com/watch?v=E0h8BUUboP0|||IBM XT Portable 5155 8088 Domination Bad Apple|"Cpu Intel 8088 4,77mhz, 640 Ko Ram, Hard disk controller ide 8bits ADP50 with 200Mo Hard disk, Sound Blaster 2.0.
-3 Screens. Enjoy !!"|2016-01-03T14:28:48Z|PT7M9S|137901|||||||
+3 Screens. Enjoy !!"|2016-01-03T14:28:48Z|PT7M9S|137901.0|||||||
 Retro computer|IBM PC monochrome|https://www.youtube.com/watch?v=OT2ufnGe9Cc|||Bad Apple!! in IBM PC/XT|"Hardware:
 - IBM 5160 PC/XT with IBM 5151 monochrome display
 - 8088 @ 4.77 MHz
@@ -1148,7 +1154,7 @@ Software:
 - 8088flex player by Trixter 
 http://www.oldskool.org/pc/8088_Corruption/#do
 - tmvenc encoder by Mike Chambers 
-http://www.vintage-computer.com/vcforum/showthread.php?41532-8088-corruption-encoder-a-new-one"|2014-03-27T12:18:48Z|PT3M43S|32666|||||||
+http://www.vintage-computer.com/vcforum/showthread.php?41532-8088-corruption-encoder-a-new-one"|2014-03-27T12:18:48Z|PT3M43S|32666.0|||||||
 Retro computer|IBM AT original equipment|https://www.youtube.com/watch?v=hc9RqxnvqVc|||Bad Apple on IBM PC/AT (+ boot process)|"Well, as somebody shown me http://www.youtube.com/watch?v=E0h8BUUboP0 - then it was nothing that could stop me from trying to reproduce this on my own PC/AT.
 
 And finally it was done! Actual Bad Apple starts at 3:26. 
@@ -1173,13 +1179,13 @@ Also were installed, but not used:
 - RTL8019 ISA Network Card
 - US Robotics Sportster 0460 ISA Modem
 - Microsoft InPort Mouse
-- 5,25"" Alps DFC642B01B 1.2MB FDD"|2016-02-10T23:56:16Z|PT8M5S|9807|||||||
+- 5,25"" Alps DFC642B01B 1.2MB FDD"|2016-02-10T23:56:16Z|PT8M5S|9807.0|||||||
 Retro computer|IBM PC 2 720K Floppies|https://www.youtube.com/watch?v=eJ2FM5R-O_Y|||Bad Apple on a 1982 IBM PC|"A demo running the famous Bad Apple animation on an emulated IBM PC 5150 from 1982, using 86box.
 This demo runs on a 4.77MHz 8088 CPU using two 720kB floppies for storing animation data and music.
 A 320x200 VGA display mode is used; the animation itself runs at a 256x192 resolution at 15 frames per second.
 Sound is generated using the OPL3 chip, based on this excellent cover by NAB622 : https://www.youtube.com/watch?v=2lEPH6Y3Luo
 
-More information, source code and download link : https://github.com/Stellaris-code/BadApple5150"|2022-03-17T13:55:14Z|PT3M38S|788|||||||
+More information, source code and download link : https://github.com/Stellaris-code/BadApple5150"|2022-03-17T13:55:14Z|PT3M38S|788.0|||||||
 Retro computer|8086 Assembly|https://www.youtube.com/watch?v=kK8i4MWa31k|||"[Assembly 8086] - ""Bad Apple!!"" FMV (UPDATE) VGA + PC-Speaker Music / Online demo on archive.org"|"[UPDATE June 29, 2020]: fixed strange beeps issue.
 
 Check it online here: https://archive.org/details/badapple_202006
@@ -1197,10 +1203,10 @@ Executable (*.exe 574kb): https://github.com/leonardo-ono/VgaTestesNotas/raw/mas
 References:
 previous video: https://youtu.be/BL7fIau3dho
 https://archive.org/details/badapple_202006
-Playing Super Mario Bros music on PC speaker - https://youtu.be/FcnBOFVPxrs"|2020-06-25T01:29:37Z|PT4M27S|4202|||||||
+Playing Super Mario Bros music on PC speaker - https://youtu.be/FcnBOFVPxrs"|2020-06-25T01:29:37Z|PT4M27S|4202.0|||||||
 Retro computer|Boot sector|https://www.youtube.com/watch?v=DsJH3SNYqvM|||Bad Apple but it's run on the Boot Sector|"Programmed with nasm on the boot sector, emulated using qemu.
 
-Ebic bapple: https://www.youtube.com/watch?v=KehR8IwdDec"|2021-04-07T02:14:13Z|PT3M50S|446|||||||
+Ebic bapple: https://www.youtube.com/watch?v=KehR8IwdDec"|2021-04-07T02:14:13Z|PT3M50S|446.0|||||||
 Retro computer|Atari 400|https://www.youtube.com/watch?v=tiLB8PQUJtc|||Bad Apple HD - Atari 8-Bit Demo by JAC! of WUDSN (NTSC) (2018)|"Recorded on the original Atari 400 computer, Atari 410 tape drive, and The!Cart. 60 Hz capture from NTSC CRT display. 
 
 Original music in this video:
@@ -1216,15 +1222,15 @@ https://www.wudsn.com/index.php/productions-atari800/demos/badapplehd
 The recording of the PAL version is available at:
 https://www.youtube.com/watch?v=WhAn9pCdQek
 
-Download, vote, and comment on Pouet: https://www.pouet.net/prod.php?which=78721"|2018-11-03T22:20:47Z|PT6M31S|33323|||||||
+Download, vote, and comment on Pouet: https://www.pouet.net/prod.php?which=78721"|2018-11-03T22:20:47Z|PT6M31S|33323.0|||||||
 Retro computer|Atari 800|https://www.youtube.com/watch?v=BjNm04oCdYc|||Bad Apple - An Atari Demo (2017)|"A new rendition of the well-known music video, now with proper timing, stereo music and a framerate of 12.5 fps. Runs on stock Atari 64KB machines (Atari 800 series), using a 1MB Maxflash/Ultimate cart. I was just a technical advisor in this one, mostly with regard to music.
 Code, graphics, music: R0ger
-Link to pouët.net production page: http://www.pouet.net/prod.php?which=70220"|2017-06-05T11:24:23Z|PT4M4S|1030024|||||||
+Link to pouët.net production page: http://www.pouet.net/prod.php?which=70220"|2017-06-05T11:24:23Z|PT4M4S|1030024.0|||||||
 Retro computer|Atari STE|https://www.youtube.com/watch?v=_j66Nu7BoCE|||Bad Apple!! (Atari STE) making of|"This is a small video of the development progress of my Bad Apple!! conversion for Atari STE
 It was done over 5 months but the actual development time is maybe 7~8 full days.
 Video capture of the demo: https://www.youtube.com/watch?v=AvRzV5gn0U8
 
-Music: Bad Apple!! (karaoke) by Masayoshi Minoshima (Alstroemeria Records)"|2017-12-19T22:52:52Z|PT4M24S|9066|||||||
+Music: Bad Apple!! (karaoke) by Masayoshi Minoshima (Alstroemeria Records)"|2017-12-19T22:52:52Z|PT4M24S|9066.0|||||||
 Retro computer|ZX Spectrum|https://www.youtube.com/watch?v=cd5iEeIe7L0|||Bad Apple!! zx spectrum version by Techno Lab|"0:25 start
 
 Release date: 13.02.2016
@@ -1247,7 +1253,7 @@ music............................................n1k-o
 ascii.............................................dman
 
 Almost any ZX clone with 512Kb of RAM or more (tested on real ZXEvo and emulated ATM*/ZS/Profi/KAY).
-2x AY/YM chips aka TurboSound (NedoPC standard)."|2016-02-14T07:55:42Z|PT4M11S|78999|||||||
+2x AY/YM chips aka TurboSound (NedoPC standard)."|2016-02-14T07:55:42Z|PT4M11S|78999.0|||||||
 Retro computer|Amiga|https://www.youtube.com/watch?v=bDf8U36vk9c|||► Amiga Demo (2020):【Touhou】Bad Apple!! (Amiga Anim format)|"Bad Apple in Amiga Anim format, made entirely on a Commodore Amiga. Submitted to Novaparty 2020's Wild category, and now fixed up for release.
 
 U Mad, Apple? - Final Release: https://github.com/stevelord/umadapple
@@ -1310,7 +1316,7 @@ All the sound sources on other channels are reprinted videos of my copyrighted w
 
 ▶️ Oppure offrirci un Caffè:
 https://www.buymeacoffee.com/joss74
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"|2024-02-05T01:35:39Z|PT3M44S|30|||||||
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"|2024-02-05T01:35:39Z|PT3M44S|30.0|||||||
 Retro computer|Amiga 1200|https://www.youtube.com/watch?v=WdNNidpM8n4|||"Commodore Amiga 1200 ""Bad Apple"" 30fps full stereo.  How 'bout them apples?"|"World premiere?  Maybe.
 
 Commodore Amiga 1200 (circa 1992) (real hardware capture) playing ""Bad Apple"" with full onboard audio stereo  @ 28,867Hz and 640x240 (Hi-Res Non-Interlaced) 30fps video (with shadows in tact).  Note 28,867Hz is max quality for onboard Paula in 15KHz video modes.
@@ -1319,7 +1325,7 @@ Accomplished on an A1200 with ACA1233 68030 and Elbox FastATA 1200, connected to
 
 Software used is Movec's (EAB) beta AGABlaster and agaconv.  Specified agaconv to use four bitplanes to recover the bandwidth needed for 640 (""HI"" Res) width at this frame rate.
 
-Captured using a cheap ""Amazon"" composite to HDMI adapter and an outboard HDMI capture device.  Unfortunately, the best I could do is feed the Luma signal from an S-Video converter into the adapter's composite input then fix the brightness/contrast (and aspect ratio) in post.  That unfortunately limited the bandwidth as well as removed the color from my workbench screen.  The capture device also limited the audio quality (192kbps AAC), but the overall point still comes through just fine."|2020-07-30T12:07:00Z|PT5M8S|11570|||||||
+Captured using a cheap ""Amazon"" composite to HDMI adapter and an outboard HDMI capture device.  Unfortunately, the best I could do is feed the Luma signal from an S-Video converter into the adapter's composite input then fix the brightness/contrast (and aspect ratio) in post.  That unfortunately limited the bandwidth as well as removed the color from my workbench screen.  The capture device also limited the audio quality (192kbps AAC), but the overall point still comes through just fine."|2020-07-30T12:07:00Z|PT5M8S|11570.0|||||||
 Retro computer|Commodore 64|https://www.youtube.com/watch?v=OsDy-4L6-tQ|||Onslaught - Bad Apple 64 - C64 Demo|"Excellent C64 demo which is quite Amiga-like and demonstrates what can be achieved in just approximately 170k and a 1 MHz computer from 1982. Released in June 2014...
 
 *Rough quick capture*
@@ -1334,7 +1340,7 @@ Algorithm on 29 June 2014
 ""This is pure 100% animation and was only created to show that it could be done... over 2000 frames packed to a single disk side on the c64.
 Each frame packed to around 70 bytes and running at 12fps streaming fully from disk!""
 
-Touhou - Bad Apple (With SID Audio) http://youtu.be/Y9aUChQmKSQ"|2014-06-29T20:24:15Z|PT4M1S|54160|||||||
+Touhou - Bad Apple (With SID Audio) http://youtu.be/Y9aUChQmKSQ"|2014-06-29T20:24:15Z|PT4M1S|54160.0|||||||
 Retro computer|Amstrad PC 1mb|https://www.youtube.com/watch?v=Xo8AzY7QZSc|||Bad Arnold - 1mb enhanced Amstrad CPC demo by Shining|"Shining's CPC conversion of the Bad Apple demo for enhanced CPC.
 Requirements:
 - At least 1mb RAM expansion
@@ -1351,21 +1357,21 @@ Webpage:
 http://cpc.scifinet.org
 
 Download:
-http://cpc-live.com/data/download.php?type=-demo&fichier=BadArnold.zip"|2017-08-19T18:12:20Z|PT6M27S|8159|||||||
+http://cpc-live.com/data/download.php?type=-demo&fichier=BadArnold.zip"|2017-08-19T18:12:20Z|PT6M27S|8159.0|||||||
 Retro computer|NABU|https://www.youtube.com/watch?v=VeLNWQFJ558|||37 - NABU Computer's Bad Apple with Music (Official)|"Bad Apple on the NABU; same great taste, now with sound! The first version was in the assembler I posted yesterday, but I wanted to know how efficient my C library is getting today. With Special Function Registers, I can inline z80 IN and OUT commands without needing to push to the stack and call a function. I also realized that MOD uses way more CPU than an IF condition with the z80. So, needless to say, the C environment is coming along really well!
 
 Oh, and I made a name table editor that I will publish on nabu.ca as well. It helps create sprites, fonts, and tiles to store in the NABUs VRAM.
 
 Share and Enjoy,
-DJ!"|2022-12-17T11:00:31Z|PT4M19S|3173|||||||
+DJ!"|2022-12-17T11:00:31Z|PT4M19S|3173.0|||||||
 Retro computer|Apple ][ Play Bad Apple On Apple II|https://www.youtube.com/watch?v=X8osEgYzPNo|||Play Bad Apple On Apple II|"From bilibili http://www.bilibili.com/video/av1752770/  Up主(author):原子氧 
 古董苹果播放烂苹果-Bad Apple II~
-BGM: Bad Apple"|2014-11-28T09:23:21Z|PT5M32S|148969|||||||
+BGM: Bad Apple"|2014-11-28T09:23:21Z|PT5M32S|148969.0|||||||
 Retro computer|Brother LW-35 (Typewriter)|https://www.youtube.com/watch?v=b_vZhPZ220U|||Bad Apple!! on the brother LW-35|"Bad Apple!! on a modified LW-35. For details on the hardware, see https://notsyncing.net/?p=blog&b=2020.lw35-mod.
 
 The video is scaled and cropped to the LCDs native resolution of 480x128 px.
 
-Need more Bad Apple!! on weird devices? Look no further than https://twitter.com/i/moments/1273960281274609664"|2020-06-24T15:04:46Z|PT3M50S|549|||||||
+Need more Bad Apple!! on weird devices? Look no further than https://twitter.com/i/moments/1273960281274609664"|2020-06-24T15:04:46Z|PT3M50S|549.0|||||||
 Retro computer|Minitel 1980|https://www.youtube.com/watch?v=ity7Er4WV7w|||Play Bad Apple on Minitel 1 (1980)|"I used the serial port (4800 baud/s) of a Minitel 1 from Alcatel (1980) to display Bad Apple with a Thinkpad T430 and a cheap USB serial adapter. The video was played on slow speed on the Minitel display (roughly 5h of footage)  and I sped it up to make this video.
 
 Inspired by Turion 64 Guy :
@@ -1381,12 +1387,12 @@ Bad Apple :
 https://youtu.be/FtutLA63Cp8
 
 Play Bad Apple On Apple II :
-https://www.youtube.com/watch?v=X8osEgYzPNo"|2020-04-15T15:33:01Z|PT4M19S|732|||||||
+https://www.youtube.com/watch?v=X8osEgYzPNo"|2020-04-15T15:33:01Z|PT4M19S|732.0|||||||
 Minecraft|Sheep|https://www.youtube.com/watch?v=tO6sfku_1b8|||Bad Apple!! played on Minecraft sheep [original]|"I wrote this plugin for Bapcraft, join at mc.bapcraft.org.  https://discord.gg/APZ388V
 
 GitLab repo: https://gitlab.com/delbonis/rottenplayer
 
-Bad Apple!! is a song from the Touhou game series.  It's developed a culture of being played on things that normally aren't made to play videos, like sheep.  A lot like how people run Doom on things that weren't meant to run Doom, like printers."|2020-10-10T20:12:38Z|PT3M46S|6982535|||||||
+Bad Apple!! is a song from the Touhou game series.  It's developed a culture of being played on things that normally aren't made to play videos, like sheep.  A lot like how people run Doom on things that weren't meant to run Doom, like printers."|2020-10-10T20:12:38Z|PT3M46S|6982535.0|||||||
 Minecraft|Redstone memory|https://www.youtube.com/watch?v=FFcBzcOXMgU|||A bad apple player made with redstone only !|"This video is translated from its Chinese version, due to my native language isn't English, the translation quality may not be very good.
 
 Chinese version: https://youtu.be/xn4fbXkLoqU
@@ -1395,7 +1401,7 @@ Chinese version: https://youtu.be/xn4fbXkLoqU
 
 BGM:
 幽雅に咲かせ、墨染の桜 ~ Border of Life
-Bad apple!!"|2022-03-16T08:33:29Z|PT5M42S|46460|||||||
+Bad apple!!"|2022-03-16T08:33:29Z|PT5M42S|46460.0|||||||
 Minecraft|Redstone|https://www.youtube.com/watch?v=SClApfvE75Q|||Bad Apple but Played with just Redstone|"*75K* likes and I make an explanation video and give a world download :)
 
 Got some awesome help from @nano_redstone and @ECanDo !
@@ -1409,13 +1415,13 @@ SleeperPin: https://youtu.be/4tPdhZFirMU
 
 
 Because we passed 10K likes on the Bad Apple on copper bulbs video, I made Bad Apple play on pure Redstone!
-Like, subscribe and thanks for watching :D"|2024-01-15T05:00:20Z|PT4M15S|9868|||||||
+Like, subscribe and thanks for watching :D"|2024-01-15T05:00:20Z|PT4M15S|9868.0|||||||
 Minecraft|Minecraft bookshelf|https://www.youtube.com/watch?v=v6e8hrWweEY|||Bad Apple on Chiseled Bookshelf|"Bad Apple animation on the Chiseled Bookshelf added in snapshot 22w46a, implemented using a data pack and a custom python script. The video plays in realtime, but audio was added afterwards as it doesn't use a resource pack.
 
 Source code and datapack download (in releases):
 https://github.com/kasamikona/BadAppleBookshelf
 
-This video uses the music ""Bad Apple!!"" by Alstroemeria records in the spirit of creative parody. The original song is from Touhou Project and belongs to ZUN, and is used fairly under ZUN's fan-content terms of use (https://touhou-project.news/guidelines_en/)."|2022-11-17T20:56:28Z|PT3M48S|416300|||||||
+This video uses the music ""Bad Apple!!"" by Alstroemeria records in the spirit of creative parody. The original song is from Touhou Project and belongs to ZUN, and is used fairly under ZUN's fan-content terms of use (https://touhou-project.news/guidelines_en/)."|2022-11-17T20:56:28Z|PT3M48S|416300.0|||||||
 Minecraft|Trapdoors|https://www.youtube.com/watch?v=Yl47RoFQas8|||Bad Apple But Played Using Iron Trapdoors in Minecraft|"This work is based on the song from The Touhou Project
 
 Behind the scenes: https://youtu.be/CvajAPbe0xk
@@ -1430,7 +1436,7 @@ GitHub: https://github.com/Tommyhetrick/BadAppleIronTrapdoors
 
 World Download: https://www.mediafire.com/file/loltncld48dwl7w/BadAppleIronTrapdoors.zip/file
 
-#badapple #minecraft"|2023-02-16T18:30:32Z|PT3M56S|1420793|||||||
+#badapple #minecraft"|2023-02-16T18:30:32Z|PT3M56S|1420793.0|||||||
 Minecraft|Petals|https://www.youtube.com/watch?v=OxxfcwNet34|||Bad Apple! with Pink Petals in Minecraft|"Pink petals can have several different shapes, and you know what that means.
 This was recorded in real time, made entirely in vanilla Minecraft, using data packs.
 
@@ -1441,7 +1447,7 @@ Run it for yourself:
 https://github.com/Ellivers/bad-apple-pink-petals
 
 Original Bad Apple:
-https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-02-18T16:44:10Z|PT3M56S|29744|||||||
+https://www.youtube.com/watch?v=FtutLA63Cp8"|2023-02-18T16:44:10Z|PT3M56S|29744.0|||||||
 Minecraft|Creeper explosions|https://www.youtube.com/watch?v=jC7Y-H60_V0|||Bad Apple!! but rendered with Minecraft Creeper Explosions|"Nothing special about this one. It's a bit of a stretch to say inter frame compression, but basically the creeper explosions represent the change in black to white pixels between frames. Video speed adjusted. Uses Java, Maven, Spigot API, Python PIL.
 
 Watch the preamble: https://www.youtube.com/watch?v=Yhv0IyPcFA0
@@ -1449,18 +1455,18 @@ Watch the preamble: https://www.youtube.com/watch?v=Yhv0IyPcFA0
 Join the Discord: https://discord.gg/WEykWbjkR2​
 Check out my other stuff on GitHub: https://github.com/kevinjycui
 
-I have Twitter too but if you follow me there you get to see me tweet like twice a year"|2021-05-10T22:07:07Z|PT4M4S|314421|||||||
+I have Twitter too but if you follow me there you get to see me tweet like twice a year"|2021-05-10T22:07:07Z|PT4M4S|314421.0|||||||
 Minecraft|52,800 blocks|https://www.youtube.com/watch?v=CDNZx8vSSMo|||Bad Apple in Minecraft (52,800 blocks display)|"Bad Apple in Minecraft on a huge (52k+ blocks) display.
 Original Video:
 https://www.youtube.com/watch?v=9lNZ_Rnr7Jc
 
 There also is a version using minecraft sheep by @Treyzania you might like:
-https://www.youtube.com/watch?v=tO6sfku_1b8"|2019-01-02T02:26:30Z|PT4M4S|490996|||||||
+https://www.youtube.com/watch?v=tO6sfku_1b8"|2019-01-02T02:26:30Z|PT4M4S|490996.0|||||||
 Real World (or animation or both)|3D printed|https://www.youtube.com/watch?v=cVSwMiz8_Ko|||Bad Apple!! but it's on a 3d Printer (music and video)|"To play the video, I converted each frame of bad apple to an svg, and then each frame of that into an stl. I used prusaslicer with some custom slicer settings to batch process each stl, and then to actually print the files I wrote a small python script to combine the files into large gcode files with 20 frames on each of them. I took the pictures using a Nikon d5100, and it's just a slideshow after that. You will notice the printbed getting more deteriorated as the video continues from the repeated first layers being printed on it.
 
 To play the music, I have a python script for converting midi to gcode. I wrote more about this in my previous bad apple on 3d printer video. An interesting side effect of the music being printed is that it's actually slower than the original at some parts, meaning I have to resync the entire video to go with it. I had to do this with my idol on 3d printer video as well. That's the main reason why it took so long to make.
 
-at 5 fps there's about 1000 frames, so I sat there and removed each frame after it printed. took around 18 hours of sitting in front of the printer and clicking a button"|2023-09-19T16:00:33Z|PT4M30S|558860|||||||
+at 5 fps there's about 1000 frames, so I sat there and removed each frame after it printed. took around 18 hours of sitting in front of the printer and clicking a button"|2023-09-19T16:00:33Z|PT4M30S|558860.0|||||||
 Real World (or animation or both)|CAD|https://www.youtube.com/watch?v=R5zB8QQY3UQ|||Bad Apple!! but it's in Onshape 3D CAD|"Onshape CAD document (includes 3D model/mesh, animation, view/slice setup): https://cad.onshape.com/documents/f10a163e5b24fafb53cc926e/v/2d472f873387b99eaa2059e2/e/dfe5089d6144911d9bf3b480
 Original mesh by @FlavoredSaucer: https://youtu.be/HfMzrvXQJP8
 
@@ -1480,10 +1486,10 @@ Hoping to eventually make a better version with a full resolution model, cooler 
 2:10 - OMG THE LEAVES ARE SO COOL!!!
 2:12 - animation...
 3:21 - WOW LOOK AT THE SPLASH!!!
-3:24 - animation..."|2023-02-27T08:47:11Z|PT3M44S|7307|||||||
+3:24 - animation..."|2023-02-27T08:47:11Z|PT3M44S|7307.0|||||||
 Real World (or animation or both)|Rubik’s cubes|https://www.youtube.com/watch?v=m1U8YtGoc4M|||Bad Apple But with 12 Rubik's Cubes|"This is the video I have been working on over the summer, unfortunately I wasn't able to finish it. This video is approximately 681 frames long, that's how many photos I took. And this is at half of the original video's frame rate.  
 
-This project is also why I did all of those Rubik's cube stop motion tests earlier this year. This is something I do want to finish in the future, I did buy 12 new cubes for this project..."|2023-08-06T23:52:19Z|PT47S|537954|||||||
+This project is also why I did all of those Rubik's cube stop motion tests earlier this year. This is something I do want to finish in the future, I did buy 12 new cubes for this project..."|2023-08-06T23:52:19Z|PT47S|537954.0|||||||
 Real World (or animation or both)|Stop motion|https://www.youtube.com/watch?v=240Vq6tIxio|||Bad Apple!! - Stop Motion PV|"sm9519847 - コマ撮り実験アニメ「6566／6566」【Bad Apple!!　ＰＶ【影絵】アレンジ】.mp4
 http://www.nicovideo.jp/watch/sm9519847
 
@@ -1493,7 +1499,7 @@ http://www.nicovideo.jp/watch/sm9519847
 
 It's been a while since I last uploaded something from Nico Douga and this one caught my eye. Followers of the Touhou game franchise would recognize the source song and video ""Bad Apple!!"" by nomico as it maintained 7 solid weeks on top of the Nico Nico Douga weekly rankings.
  
-For the record, I don't own the video. It was uploaded by Shige-ruuu on Nicovideo.jp. If you have a Nico account, check out his other videos at - mylist/767941"|2010-01-28T02:38:22Z|PT3M40S|4286646|||||||
+For the record, I don't own the video. It was uploaded by Shige-ruuu on Nicovideo.jp. If you have a Nico account, check out his other videos at - mylist/767941"|2010-01-28T02:38:22Z|PT3M40S|4286646.0|||||||
 Real World (or animation or both)|Tesla coil|https://www.youtube.com/watch?v=nNC6aTSKiwk|||Bad Apple !! - Tesla coil + LaserShow|"【Playlist】TESLA COIL MUSIC
 https://www.youtube.com/watch?v=nNC6aTSKiwk&list=PLVH6wLUHAgyHUrhyylmHXwsJ2_Y9kZ9XI&index=1
 
@@ -1509,9 +1515,9 @@ IGBT: 2MBI300N-060 (600V300A) X2
 Resonant capacitor: 6kV 0.2uF  
 Resonance frequency: 136KHz
 
-#TOUHOU  #BadApple"|2021-03-28T15:16:32Z|PT3M39S|1213677|||||||
-Real World (or animation or both)|Flip board|https://www.youtube.com/watch?v=ko0z3SfXpm8|||Bad apple|http://www.bilibili.com/video/av2483576/|2015-06-29T12:36:56Z|PT11M42S|4998351|||||||
-Real World (or animation or both)|On apples|https://www.youtube.com/watch?v=1cpYLmDbyfg|https://www.youtube.com/shorts/IkA0GM7ruLM|Making of|Bad Apple, played on Bad Apples (as requested)|HAI!|2023-03-11T18:11:06Z|PT3M40S|471269|||||||
+#TOUHOU  #BadApple"|2021-03-28T15:16:32Z|PT3M39S|1213677.0|||||||
+Real World (or animation or both)|Flip board|https://www.youtube.com/watch?v=ko0z3SfXpm8|||Bad apple|http://www.bilibili.com/video/av2483576/|2015-06-29T12:36:56Z|PT11M42S|4998351.0|||||||
+Real World (or animation or both)|On apples|https://www.youtube.com/watch?v=1cpYLmDbyfg|https://www.youtube.com/shorts/IkA0GM7ruLM|Making of|Bad Apple, played on Bad Apples (as requested)|HAI!|2023-03-11T18:11:06Z|PT3M40S|471269.0|||||||
 Real World (or animation or both)|Pin art in Blender|https://www.youtube.com/watch?v=LosOIFUJKu8|||Bad apple on pinart in blender|"I just created a plane with displacement...
 In the end, I concluded that a bad apple is great for repeating something like what I saw here:
 https://www.youtube.com/watch?v=mDsqpeiTqg8
@@ -1522,7 +1528,7 @@ Circle： Alstroemeria Records
 
 Track Origin： 東方幻想郷　～ Lotus Land Story (Touhou Gensoukyou, meaning ""Fantastic Home Village of the East"") ／ Bad Apple!! 「""Bad Apple!!"" in the music room.」
 
-original video: https://www.youtube.com/watch?v=FtutLA63Cp8"|2018-11-12T17:43:57Z|PT3M40S|3374953|||||||
+original video: https://www.youtube.com/watch?v=FtutLA63Cp8"|2018-11-12T17:43:57Z|PT3M40S|3374953.0|||||||
 Real World (or animation or both)|On 3d apple in Blender|https://www.youtube.com/watch?v=hWiHoBhotVw|||Bad Apple but it's a material in a 3D apple|"Original: https://www.youtube.com/watch?v=FtutLA63Cp8
 Made using Blender. Each frame took between 15~20 seconds to render and I left my computer on for 2 days to render almost all 6569 frames (some were just black or white, so I cut those out to save precious minutes of my time). I used GPU rendering and I have a GTX 1660 Super.
 This can be improved with better materials, but I don't wanna spend another 2 days rendering all over again.
@@ -1532,10 +1538,10 @@ Thanks to Nik Kottmann for the apple shader tutorial: https://www.youtube.com/wa
 Files:
 Blender file: https://www.mediafire.com/file/urvmttql20owh2i/bad+apple.blend/file
 HDRI file: https://polyhaven.com/a/table_mountain_1_puresky
-Video file: https://archive.org/details/TouhouBadApple"|2023-02-28T11:42:23Z|PT3M39S|175|||||||
+Video file: https://archive.org/details/TouhouBadApple"|2023-02-28T11:42:23Z|PT3M39S|175.0|||||||
 Real World (or animation or both)|Liquid sim in Blender|https://www.youtube.com/watch?v=biRQzGgFUhM|||Bad Apple!! But I Filled it with WATER|"Took forever to render in Blender lol. Used an 8bit remix of Bad Apple as the song.
 
-Music: Bad Apple!! 8bit remix (Touhou: Lotus Land Story) -https://www.youtube.com/watch?v=lNm85uXR3RM"|2023-03-29T12:24:33Z|PT3M39S|12778|||||||
+Music: Bad Apple!! 8bit remix (Touhou: Lotus Land Story) -https://www.youtube.com/watch?v=lNm85uXR3RM"|2023-03-29T12:24:33Z|PT3M39S|12778.0|||||||
 Real World (or animation or both)|Oscilloscope|https://www.youtube.com/watch?v=7pzvEouWino|||C1-65A - Bad Apple (HD)|"Исходное видео nicovideo.jp/watch/sm8628149  Touhou - Bad Apple!!
 ---
 описание будет по частям появляться на habrahabr.ru
@@ -1546,7 +1552,7 @@ Real World (or animation or both)|Oscilloscope|https://www.youtube.com/watch?v=7
 Thanks to:  z0rc, Kaens, rm, Ran :3
 C1-65A russian oscilloscope , 
 self-made DAC via USB2.0.
-ILDA out, 30fps, 60kpps"|2010-12-20T10:32:44Z|PT4M37S|1009815|||||||
+ILDA out, 30fps, 60kpps"|2010-12-20T10:32:44Z|PT4M37S|1009815.0|||||||
 Real World (or animation or both)|Vectorscope (python soundfile)|https://www.youtube.com/watch?v=anpx9l3tRCQ|||Bad Apple!! but it's on a Vectorscope|"LMMS recently got a Vectorscope, and I figured I could display grayscale images by creating the correct ""noisy"" sounds with python.
 
 
@@ -1561,7 +1567,7 @@ Python 3.6.9 with PySoundFile and OpenCV
 You can try the experiment on your own vectorscope by downloading the noisy sound file here:
 https://mega.nz/folder/wFwAnD4I#xT5AhtQ3_7Q-Zoq9Y5rhmA
 
-(there's some source code too!)"|2021-01-21T21:00:01Z|PT3M45S|588|||||||
+(there's some source code too!)"|2021-01-21T21:00:01Z|PT3M45S|588.0|||||||
 Real World (or animation or both)|7 segment displays (240)|https://www.youtube.com/watch?v=qrSkWpVoKHM|||Bad Apple!! but it's 240 7-segment displays|"Probably my most costly project to date...
 I have been always liking the aesthetics of 7-segment displays and wanted to something big with it. So I decided to connect them into a 20x12 display with serial input and way too many decoders. The video and compressed audio data are streamed through the UART interface at a standard 115200 baud rate.
 
@@ -1570,15 +1576,15 @@ More detailed write-ups and source code soon if you're interested.
 
 [Where Else I Appear]
 Twitter: https://twitter.com/akumanatt
-Twitch: https://www.twitch.tv/akumanatt (no plans to stream there yet)"|2021-01-30T03:00:11Z|PT3M52S|52823|||||||
+Twitch: https://www.twitch.tv/akumanatt (no plans to stream there yet)"|2021-01-30T03:00:11Z|PT3M52S|52823.0|||||||
 Real World (or animation or both)|32 x 16 LED|https://www.youtube.com/watch?v=mZ48vgLvMpY&t=0s||||||||||||||
 Real World (or animation or both)|Flipbook|https://www.youtube.com/watch?v=m84PTZB_qT0|||Bad Apple!! 影絵 PV をパラパラ漫画で再現してみた。【高画質撮り直し】【No Edited Edition】|"おひさしぶりです。
 https://twitter.com/CareleSmith9
 
 
-固定コメントは作者とは無関係の人物ですが、後ろの紙の内容を書き起こしてくださったことに感謝の意を示し、固定としています。"|2019-10-26T20:01:36Z|PT3M46S|3073584|||||||
+固定コメントは作者とは無関係の人物ですが、後ろの紙の内容を書き起こしてくださったことに感謝の意を示し、固定としています。"|2019-10-26T20:01:36Z|PT3M46S|3073584.0|||||||
 Real World (or animation or both)|Sand drawing|https://www.youtube.com/watch?v=4xtTP_f1DX8|||Bad Apple: But drawn in Sand|"The famous shadow art animation for the soundtrack Bad Apple!! drawn in sand.
-So now we can officially say: Bad Apple runs on sand!"|2023-10-14T15:02:34Z|PT3M39S|25|||||||
+So now we can officially say: Bad Apple runs on sand!"|2023-10-14T15:02:34Z|PT3M39S|25.0|||||||
 Real World (or animation or both)|Laser Scanner|https://www.youtube.com/watch?v=uJaAYD0YT44|||Touhou ~ Bad Apple on the laser scanner|"NEWER VERSION: http://www.youtube.com/watch?v=5A9Eh6D-K_g
 
 This is the awesome Bad Apple shadow art video (based on the Touhou games), traced in realtime and projected using my laser scanner :)
@@ -1588,25 +1594,25 @@ Last night at 6am I was bored and copied and pasted some libavcodec example code
 Edit: more info at http://openlase.org. Recent versions of the software work a lot better and blink a lot less, and also support real edge detection for videos that aren't just blank and white ;)
 
 Original video (and input to the realtime tracer):
-http://www.youtube.com/watch?v=UkgK8eUdpAo"|2010-10-07T05:41:43Z|PT3M41S|186954|||||||
+http://www.youtube.com/watch?v=UkgK8eUdpAo"|2010-10-07T05:41:43Z|PT3M41S|186954.0|||||||
 Real World (or animation or both)|Live Action Shadows|https://www.youtube.com/watch?v=jEUEE6gjHsg|||【Touhou】Bad Apple!! 【Shadow Art】【東方】Real People Cosplay)|"someone in the comments suggested someone do this and well i did. 
 (NOT MY VIDEO ALL RIGHTS GO TO THE ORIGINAL OWNER.)
 Original Video: http://www.youtube.com/watch?v=_ObGLGTQal4
 Song: Bad Apple
 Please Suscribe ^_^
-~Arriana"|2013-04-28T01:15:21Z|PT4M5S|35420|||||||
+~Arriana"|2013-04-28T01:15:21Z|PT4M5S|35420.0|||||||
 Real World (or animation or both)|Lego|https://www.youtube.com/watch?v=1zyITlqhdso|||Bad Apple!! but Lego and rendered with way too much effort|"Stepping on a Bad Apple doesn't hurt much... unless it's made of Lego blocks.
 
 Spent about a week on this to play around with Geometry Nodes, reflection probes, and procedural animation.
 
-▶ Twitter: https://twitter.com/Osmose181"|2021-10-18T18:19:47Z|PT3M39S|11042|||||||
+▶ Twitter: https://twitter.com/Osmose181"|2021-10-18T18:19:47Z|PT3M39S|11042.0|||||||
 Real World (or animation or both)|Dolls|https://www.youtube.com/watch?v=yXdB77UhBuE|||スーパードルフィーが「Bad Apple!!」に合わせて踊る！|"60cmサイズのドール型ロボット、ダンシングドールの亜里栖（アリス）です。
 【東方】Bad Apple!!　ＰＶ【影絵】に合わせて踊る動画を撮りました。
-原曲様 http://www.nicovideo.jp/watch/sm8628149"|2010-05-01T12:33:12Z|PT3M40S|198914|||||||
+原曲様 http://www.nicovideo.jp/watch/sm8628149"|2010-05-01T12:33:12Z|PT3M40S|198914.0|||||||
 Real World (or animation or both)|Dolls 2|https://www.youtube.com/watch?v=-3YjtujQls0|||ドール型ロボットが「Bad Apple!!」を踊る！|"60cmサイズのドール型ロボット、ダンシングドールの亜里栖(ありす)＆輝夜(かぐや)です。
 サーボ数２５個、スーパードルフィーの衣装を着れるのが特徴です。
 旧作品から色々進化させました。モーションも一部改良しています。
-途中からコスプレしていますが、細かい部分は気にしないでね。"|2013-05-26T08:44:28Z|PT3M40S|93860|||||||
+途中からコスプレしていますが、細かい部分は気にしないでね。"|2013-05-26T08:44:28Z|PT3M40S|93860.0|||||||
 Real World (or animation or both)|Fumos (Dolls)|https://www.youtube.com/watch?v=BxwYTc5vRM8|||Bad Apple!! but with Fumos|"#badapple #fumo #fumofumo #touhou #touhouproject
 
-Enjoy this!"|2023-12-27T18:26:46Z|PT1M2S|6888|||||||
+Enjoy this!"|2023-12-27T18:26:46Z|PT1M2S|6888.0|||||||
